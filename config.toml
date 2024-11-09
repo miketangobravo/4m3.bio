@@ -2,7 +2,7 @@ baseURL = 'https://4m3.bio/'
 languageCode = 'en-us'
 title = 'Growing Wine Packaging'
 
-theme = "ananke"
+theme = "airspace-hugo"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true

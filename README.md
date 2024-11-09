@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Biofabrication Project Website
 
 Welcome to the official website for the Biofabrication Project, a project focused on sustainable packaging solutions using biofabricated materials from mushrooms 🍄 and grapes 🍇. This website shares information about the project, its goals, and how wineries can get involved to cultivate their own eco-friendly packaging.
@@ -32,3 +33,7 @@ To view or contribute to the project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/hugo-website.git
 
+=======
+# 4m3.bio
+4m3.bio website
+>>>>>>> origin/main

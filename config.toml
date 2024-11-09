@@ -1,0 +1,41 @@
+baseURL = 'https://4m3.bio/'
+languageCode = 'en-us'
+title = 'Growing Wine Packaging'
+
+theme = "ananke"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    contentDir = "content/en"
+    languageCode = "en"
+
+  [languages.fr]
+    languageName = "Français"
+    weight = 2
+    contentDir = "content/fr"
+    languageCode = "fr"
+
+  [languages.es]
+    languageName = "Español"
+    weight = 3
+    contentDir = "content/es"
+    languageCode = "es"
+
+  [languages.it]
+    languageName = "Italiano"
+    weight = 4
+    contentDir = "content/it"
+    languageCode = "it"
+
+  [languages.ca]
+    languageName = "Català"
+    weight = 5
+    contentDir = "content/ca"
+    languageCode = "ca"
+

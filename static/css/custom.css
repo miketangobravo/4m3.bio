@@ -1,0 +1,10 @@
+/* Custom spacing for single-page layout */
+section {
+    padding: 4rem 0;
+}
+
+/* Optional: Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+

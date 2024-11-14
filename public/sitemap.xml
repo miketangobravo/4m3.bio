@@ -2,27 +2,27 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://4m3.bio/en/sitemap.xml</loc>
+    <loc>http://localhost:53580/en/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://4m3.bio/fr/sitemap.xml</loc>
+    <loc>http://localhost:53580/fr/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://4m3.bio/es/sitemap.xml</loc>
+    <loc>http://localhost:53580/es/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://4m3.bio/it/sitemap.xml</loc>
+    <loc>http://localhost:53580/it/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://4m3.bio/ca/sitemap.xml</loc>
+    <loc>http://localhost:53580/ca/sitemap.xml</loc>
     
   </sitemap>
   

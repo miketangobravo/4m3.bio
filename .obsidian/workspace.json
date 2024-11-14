@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "fd9744a8346d1796",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5046278a3c6e053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fc58ef2b2487e0c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "static/images/fotos/IMG_3304.JPG"
+              },
+              "icon": "lucide-image",
+              "title": "IMG_3304"
+            }
+          },
+          {
+            "id": "46a0d905f37cdeb0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07a27f3bfe5b63b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "29bb594f1b96214f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60d13c75f930c515",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0b2e1ecb285b49b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4d107610f119e5c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80ec296e5fa03f1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c2699e21cd2be78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7cab55d947debe8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "static/images/fotos/IMG_3304.JPG",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for IMG_3304"
+            }
+          },
+          {
+            "id": "9aa9dcd02bc328c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "static/images/fotos/IMG_3304.JPG",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from IMG_3304"
+            }
+          },
+          {
+            "id": "798f472a0dce9bdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f2467791120fc2a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "static/images/fotos/IMG_3304.JPG"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of IMG_3304"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4fc58ef2b2487e0c",
+  "lastOpenFiles": [
+    "content/en/_index.md~",
+    "static/images/fotos/IMG_3303.JPG",
+    "static/images/fotos/IMG_3304.JPG",
+    "static/images/fotos/IMG_3301.JPG",
+    "static/images/fotos/IMG_3302.JPG",
+    "static/images/fotos/IMG_3316.JPG",
+    "static/images/fotos/IMG_3321.JPG",
+    "public/tags/wine/index.xml",
+    "public/tags/wine/index.html",
+    "public/tags/wine",
+    "public/tags/packaging/index.xml",
+    "public/tags/packaging/index.html",
+    "public/tags/packaging",
+    "public/tags/mycelium/index.xml",
+    "public/tags/mycelium/index.html",
+    "public/tags/mycelium",
+    "public/tags/biofabrication/index.xml",
+    "static/images/fotos/telegram-cloud-photo-size-1-5017394165876633093-y.jpg",
+    "static/images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg",
+    "static/images/fotos/millet.jpg",
+    "static/images/fotos/IMG_3299.JPG",
+    "content/en/_index.md",
+    "README.md"
+  ]
+}

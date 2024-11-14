@@ -1,11 +1,14 @@
 ---
-title: "Biofabrication of Boxes"
-description: "Innovating sustainable packaging through biofabrication"
+title: Organic Boxes for Wine
+description: Innovating sustainable packaging through biofabrication
+author: "Mike Tango Bravo"
+tags: ["mycelium", "biofabrication", "wine", "packaging"]
+featured_image: "/images/fotos/IMG_3304.jpg"
 ---
 
-## What is the biofabrication of boxes? 🍄+🍇=📦
+## What is Biofabrication? 🍄+🍇=📦
 
-Biofabrication allows us to create compostable and sustainable packaging materials, using mushrooms and agricultural waste.
+Biofabrication allows us to "grow" compostable and sustainable packaging materials, using two ingredients: mushrooms (mycelium) and vineyard waste (vine pruning).
 
 ---
 
@@ -25,8 +28,9 @@ Our material is completely natural, compostable, and tailored for the wine indus
 
 ## Photo Gallery
 
-![Biofabricated Box 1](images/box1.jpg)
-![Biofabricated Box 2](images/box2.jpg)
+
+![](/images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
+
 
 ---
 
@@ -46,9 +50,6 @@ We aim to enable wineries to grow their own sustainable packaging, reducing envi
 ## What We’ve Accomplished So Far
 
 We’ve developed prototypes and achieved promising results in the production of biofabricated boxes.
-
-![Prototype 1](images/prototype1.jpg)
-![Prototype 2](images/prototype2.jpg)
 
 ---
 

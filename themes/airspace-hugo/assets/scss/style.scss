@@ -28,6 +28,8 @@ $h2-sm: 22px;
 $h3: 20px;
 $h4: 18px;
 
+@import "variables";
+
 @import 'mixins.scss';
 
 @import 'media-query.scss';

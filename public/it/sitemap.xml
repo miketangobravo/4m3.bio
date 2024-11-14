@@ -2,85 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://4m3.bio/it/</loc>
+    <loc>http://localhost:53580/it/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://4m3.bio/en/"
+                href="http://localhost:53580/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://4m3.bio/fr/"
+                href="http://localhost:53580/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://4m3.bio/es/"
+                href="http://localhost:53580/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://4m3.bio/ca/"
+                href="http://localhost:53580/ca/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://4m3.bio/it/"
+                href="http://localhost:53580/it/"
                 />
   </url><url>
-    <loc>https://4m3.bio/it/categories/</loc>
+    <loc>http://localhost:53580/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://4m3.bio/en/categories/"
+                href="http://localhost:53580/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://4m3.bio/fr/categories/"
+                href="http://localhost:53580/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://4m3.bio/es/categories/"
+                href="http://localhost:53580/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://4m3.bio/ca/categories/"
+                href="http://localhost:53580/ca/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://4m3.bio/it/categories/"
+                href="http://localhost:53580/it/categories/"
                 />
   </url><url>
-    <loc>https://4m3.bio/it/tags/</loc>
+    <loc>http://localhost:53580/it/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://4m3.bio/en/tags/"
+                href="http://localhost:53580/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://4m3.bio/fr/tags/"
+                href="http://localhost:53580/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://4m3.bio/es/tags/"
+                href="http://localhost:53580/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
-                href="https://4m3.bio/ca/tags/"
+                href="http://localhost:53580/ca/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://4m3.bio/it/tags/"
+                href="http://localhost:53580/it/tags/"
                 />
   </url>
 </urlset>

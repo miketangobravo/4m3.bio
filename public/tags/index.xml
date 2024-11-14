@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Growing Wine Packaging</title>
-    <link>http://localhost:53580/tags/</link>
+    <link>https://4m3.bio/tags/</link>
     <description>Recent content in Tags on Growing Wine Packaging</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:53580/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://4m3.bio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biofabrication</title>
-      <link>http://localhost:53580/tags/biofabrication/</link>
+      <link>https://4m3.bio/tags/biofabrication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53580/tags/biofabrication/</guid>
+      <guid>https://4m3.bio/tags/biofabrication/</guid>
       <description></description>
     </item>
     <item>
       <title>Mycelium</title>
-      <link>http://localhost:53580/tags/mycelium/</link>
+      <link>https://4m3.bio/tags/mycelium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53580/tags/mycelium/</guid>
+      <guid>https://4m3.bio/tags/mycelium/</guid>
       <description></description>
     </item>
     <item>
       <title>Packaging</title>
-      <link>http://localhost:53580/tags/packaging/</link>
+      <link>https://4m3.bio/tags/packaging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53580/tags/packaging/</guid>
+      <guid>https://4m3.bio/tags/packaging/</guid>
       <description></description>
     </item>
     <item>
       <title>Wine</title>
-      <link>http://localhost:53580/tags/wine/</link>
+      <link>https://4m3.bio/tags/wine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:53580/tags/wine/</guid>
+      <guid>https://4m3.bio/tags/wine/</guid>
       <description></description>
     </item>
   </channel>

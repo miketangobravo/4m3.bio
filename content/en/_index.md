@@ -3,7 +3,8 @@ title: Organic Boxes for Wine
 description: Innovating sustainable packaging through biofabrication
 author: "Mike Tango Bravo"
 tags: ["mycelium", "biofabrication", "wine", "packaging"]
-featured_image: "/images/fotos/IMG_3304.jpg"
+background_color_class: "bg-blue"
+cover_dimming_class: "bg-black-40"
 ---
 
 ## What is Biofabrication? 🍄+🍇=📦

@@ -13,13 +13,17 @@ cover_dimming_class: bg-black-40
 
 ## What is Biofabrication? 🍄+🍇=📦
 
-Biofabrication allows us to "grow" compostable and sustainable packaging materials, using only two ingredients: mushrooms (mycelium) and vineyard waste (vine pruning).
+We "grow" compostable and sustainable wine packaging materials, using only two ingredients: mycelium (fungi) and vineyard waste (vine pruning).
 
 ---
 
 ## Protect your wine
 
-Our mycelium packaging is stronger than styrofoam, lighter than wood, and does not require an outer cardboard container. These boxes, you can grow yourself, protect your wine from vibrations, temperature swings, and impacts.
+Biopackaging is stronger than styrofoam, lighter than wood, and does not require an outer cardboard container. 
+
+These boxes protect your wine from vibrations, temperature swings, and impacts, and are ready to ship to retailers and customers.
+
+They can be grown at the winery, using your own vineyard waste.
 
 ---
 
@@ -27,9 +31,9 @@ Our mycelium packaging is stronger than styrofoam, lighter than wood, and does n
 
 1. Shred your vine pruning into a mulch.
 2. Mix the shredded pruning with a tiny amount of fungi-inoculated seeds and water.
-3. Place this mixture into your customized, wine-box mould, and wait 5 days for the mycelium to colonize the vineyard waste. 
-4. Remove the newly grown mycelium packaging from the mould and allow to dry.
-5. Heat the box to 80˚C, to remove any remaining moisture and stop mycelium growth.
+3. Place this mixture into a customized, wine-box mould, and wait 5 days for the mycelium to colonize the vineyard cuttings. 
+4. Remove the newly grown biopackaging from the mould and allow to dry.
+5. Heat the box to 80˚C, to remove any remaining moisture and stop further mycelial growth.
 6. Ship your wines around the world!
 
 ---
@@ -44,37 +48,30 @@ Our mycelium packaging is stronger than styrofoam, lighter than wood, and does n
 
 ## Our Goal: Empower Wineries to Grow Their Own Boxes
 
-We enable wineries to cultivate their own sustainable packaging.
+We enable wineries to GROW their own sustainable packaging.
 
 For 10,000 years, crushed grapes and fungi (yeast) have produced wine: 🍄+🍇=🍷
+
 Now, wineries can make wine and grow packaging from the SAME vines: 🍄+🍇=📦
 
 ---
 
 ## What We’re Looking For:
 
-- **Primier Partner Winery** Your winery will be the FIRST in the world to use mycelium packaging. We will grow your first 1000 boxes for you, and teach you the process. Your brand will bring this technology to the world, and we will join you on stage at the world's wine events to support the announcement. 
-- **Wineries** interested in growing their own boxes in the future.
-
----
-
-## What We’ve Accomplished So Far
-
-We’ve developed prototypes and achieved promising results in the production of biofabricated boxes.
-
+- **Primier Winery Partner** We are looking for the FIRST winery in the world to use mycelium packaging. We will help you grow your first 1000, and teach you the process. Your brand will bring this technology to the world, and we will join you on stage at the world's wine events to support the announcement. 
 ---
 
 ## The 4m3.bio Team
 
-We are a team of experts in biofabrication, mycology, and marketing, dedicated to creating sustainable packaging.
+We are a team of experts in biofabrication, mycology, and decentralized, open-source, business: passionate about growing sustainable packaging.
 
 
 | [Mica Vera](https://www.linkedin.com/in/mica-vera-fernández-0b136a1/)          | PM / Winery Relations     |
 | ------------------------------------------------------------------------------ | ------------------------- |
-| [Dr. Pablo Postemsky](https://www.linkedin.com/in/pablo-d-postemsky-70009896/) | Mycologist                |
-| Kevin Gartner                                                                  | Biofabrication Specialist |
-| [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Industrial Designer       |
-| [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Project Lead              |
+| **[Dr. Pablo Postemsky](https://www.linkedin.com/in/pablo-d-postemsky-70009896/)** | **Chief Mycologist**          |
+| **[Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)**              | **Biofabrication Specialist** |
+| **[Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/)** | **Industrial Designer**       |
+| **[Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)**                    | **Project Lead**              |
 
 ---
 

@@ -8,3 +8,17 @@ html {
     scroll-behavior: smooth;
 }
 
+/* Left-align all text on the site */
+body {
+    text-align: left !important;
+}
+
+/* Override specific sections or blocks if needed */
+h1, h2, h3, h4, h5, h6 {
+    text-align: left !important;
+}
+
+p {
+    text-align: left !important;
+}
+

@@ -11,22 +11,14 @@
             "id": "4fc58ef2b2487e0c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "static/images/fotos/IMG_3304.JPG"
+                "file": "content/en/_index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG_3304"
-            }
-          },
-          {
-            "id": "46a0d905f37cdeb0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "_index"
             }
           }
         ]
@@ -172,28 +164,29 @@
   },
   "active": "4fc58ef2b2487e0c",
   "lastOpenFiles": [
+    "static/images/fotos/OpenVino_brain_logo_square.png",
+    "content/en/_index.md",
+    "Pasted image 20241119214851.png",
+    "Mike_Tango_Bravo.jpeg",
+    "IMG_4352.jpeg",
+    "config.toml~",
+    "static/images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg",
+    "static/images/fotos/telegram-cloud-photo-size-1-5017394165876633092-y.jpg",
+    "static/images/fotos/telegram-cloud-photo-size-1-5017394165876633093-y.jpg",
+    "static/images/fotos/telegram-cloud-photo-size-1-5017394165876633094-y.jpg",
+    "static/images/fotos/telegram-cloud-photo-size-1-5017394165876633095-y.jpg",
+    "public/images/alpiste.jpg",
+    "public/categories/company-news/index.xml",
+    "public/categories/company-news/index.html",
+    "public/categories/company-news",
+    "4m3.bio - website.md",
+    "Rotate!.md",
     "content/en/_index.md~",
-    "static/images/fotos/IMG_3303.JPG",
-    "static/images/fotos/IMG_3304.JPG",
-    "static/images/fotos/IMG_3301.JPG",
-    "static/images/fotos/IMG_3302.JPG",
-    "static/images/fotos/IMG_3316.JPG",
-    "static/images/fotos/IMG_3321.JPG",
     "public/tags/wine/index.xml",
     "public/tags/wine/index.html",
     "public/tags/wine",
     "public/tags/packaging/index.xml",
     "public/tags/packaging/index.html",
-    "public/tags/packaging",
-    "public/tags/mycelium/index.xml",
-    "public/tags/mycelium/index.html",
-    "public/tags/mycelium",
-    "public/tags/biofabrication/index.xml",
-    "static/images/fotos/telegram-cloud-photo-size-1-5017394165876633093-y.jpg",
-    "static/images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg",
-    "static/images/fotos/millet.jpg",
-    "static/images/fotos/IMG_3299.JPG",
-    "content/en/_index.md",
     "README.md"
   ]
 }

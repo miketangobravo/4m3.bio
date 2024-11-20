@@ -46,11 +46,11 @@ Ils peuvent être cultivés au chai, en utilisant le matériel de taille de votr
 
 
 
-![](images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
-![](images/fotos/2box_lid.jpg)
-![](images/fotos/sixbottle.jpg)
-![](images/fotos/empty_shadow.jpg)
-![](images/fotos/IMG_3297.JPG)
+![](images/bluesky.jpg)
+![](images/2box_lid.jpg)
+![](images/sixbottle.jpg)
+![](images/empty_shadow.jpg)
+![](images/oblique_box.jpg)
 ---
 
 ## Notre objectif : permettre aux vignobles de cultiver leurs propres caisses

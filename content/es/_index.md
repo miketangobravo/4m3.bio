@@ -46,11 +46,11 @@ Se pueden cultivar en la bodega, utilizando los materials de poda de su propio v
 
 
 
-![](images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
-![](images/fotos/2box_lid.jpg)
-![](images/fotos/sixbottle.jpg)
-![](images/fotos/empty_shadow.jpg)
-![](images/fotos/IMG_3297.JPG)
+![](images/bluesky.jpg)
+![](images/2box_lid.jpg)
+![](images/sixbottle.jpg)
+![](images/empty_shadow.jpg)
+![](images/oblique_box.jpg)
 ---
 
 ## Nuestro objetivo: empoderar a las bodegas cultivar sus propias cajas

@@ -10,7 +10,7 @@ tags:
 background_color_class: bg-blue
 cover_dimming_class: bg-black-40
 cascade:
-  featured_image: /images/fotos/DSC_6036.jpg
+  featured_image: /images/hero_mtb.jpg
 ---
 
 ## Biofabricació! 

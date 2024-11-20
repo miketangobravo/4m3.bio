@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Growing Wine Packaging</title>
-    <link>http://localhost:57609/ca/tags/</link>
+    <link>https://4m3.bio/ca/tags/</link>
     <description>Recent content in Tags on Growing Wine Packaging</description>
     <generator>Hugo</generator>
     <language>ca</language>
-    <atom:link href="http://localhost:57609/ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://4m3.bio/ca/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biofabrication</title>
-      <link>http://localhost:57609/ca/tags/biofabrication/</link>
+      <link>https://4m3.bio/ca/tags/biofabrication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57609/ca/tags/biofabrication/</guid>
+      <guid>https://4m3.bio/ca/tags/biofabrication/</guid>
       <description></description>
     </item>
     <item>
       <title>Mycelium</title>
-      <link>http://localhost:57609/ca/tags/mycelium/</link>
+      <link>https://4m3.bio/ca/tags/mycelium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57609/ca/tags/mycelium/</guid>
+      <guid>https://4m3.bio/ca/tags/mycelium/</guid>
       <description></description>
     </item>
     <item>
       <title>Packaging</title>
-      <link>http://localhost:57609/ca/tags/packaging/</link>
+      <link>https://4m3.bio/ca/tags/packaging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57609/ca/tags/packaging/</guid>
+      <guid>https://4m3.bio/ca/tags/packaging/</guid>
       <description></description>
     </item>
     <item>
       <title>Wine</title>
-      <link>http://localhost:57609/ca/tags/wine/</link>
+      <link>https://4m3.bio/ca/tags/wine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:57609/ca/tags/wine/</guid>
+      <guid>https://4m3.bio/ca/tags/wine/</guid>
       <description></description>
     </item>
   </channel>

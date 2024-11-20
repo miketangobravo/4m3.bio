@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wine on Growing Wine Packaging</title>
-    <link>http://localhost:55794/tags/wine/</link>
+    <link>http://localhost:55727/tags/wine/</link>
     <description>Recent content in Wine on Growing Wine Packaging</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:55794/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:55727/tags/wine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Growing Wine Packaging</title>
-      <link>http://localhost:55794/</link>
+      <link>http://localhost:55727/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:55794/</guid>
-      <description>&lt;h2 id=&#34;what-is-biofabrication-&#34;&gt;What is Biofabrication? 🍄+🍇=📦&lt;/h2&gt;&#xA;&lt;p&gt;Biofabrication allows us to &amp;ldquo;grow&amp;rdquo; compostable and sustainable packaging materials, using only two ingredients: mushrooms (mycelium) and vineyard waste (vine pruning).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;protect-your-wine&#34;&gt;Protect your wine&lt;/h2&gt;&#xA;&lt;p&gt;Our mycelium packaging is stronger than styrofoam, lighter than wood, and does not require an outer cardboard container. These boxes, you can grow yourself, protect your wine from vibrations, temperature swings, and impacts.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-process-is-simple&#34;&gt;The Process is Simple&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Shred your vine pruning into a mulch.&lt;/li&gt;&#xA;&lt;li&gt;Mix the shredded pruning with a tiny amount of fungi-inoculated seeds and water.&lt;/li&gt;&#xA;&lt;li&gt;Place this mixture into your customized, wine-box mould, and wait 5 days for the mycelium to colonize the vineyard waste.&lt;/li&gt;&#xA;&lt;li&gt;Remove the newly grown mycelium packaging from the mould and allow to dry.&lt;/li&gt;&#xA;&lt;li&gt;Heat the box to 80˚C, to remove any remaining moisture and stop mycelium growth.&lt;/li&gt;&#xA;&lt;li&gt;Ship your wines around the world!&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;photo-gallery&#34;&gt;Photo Gallery&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:55727/</guid>
+      <description>&lt;h2 id=&#34;what-is-biofabrication-&#34;&gt;What is Biofabrication? 🍄+🍇=📦&lt;/h2&gt;&#xA;&lt;p&gt;We &amp;ldquo;grow&amp;rdquo; compostable and sustainable wine packaging materials, using only two ingredients: mycelium (fungi) and vineyard waste (vine pruning).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;protect-your-wine&#34;&gt;Protect your wine&lt;/h2&gt;&#xA;&lt;p&gt;Biopackaging is stronger than styrofoam, lighter than wood, and does not require an outer cardboard container.&lt;/p&gt;&#xA;&lt;p&gt;These boxes protect your wine from vibrations, temperature swings, and impacts, and are ready to ship to retailers and customers.&lt;/p&gt;&#xA;&lt;p&gt;They can be grown at the winery, using your own vineyard waste.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

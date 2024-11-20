@@ -1,3 +1,16 @@
+/* Font setting? */
+body {
+    font-family: 'CircularSTD', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'CircularSTD', sans-serif;
+}
+
+p {
+    font-family: 'CircularSTD', sans-serif;
+}
+
 /* Custom spacing for single-page layout */
 section {
     padding: 4rem 0;
@@ -21,4 +34,106 @@ h1, h2, h3, h4, h5, h6 {
 p {
     text-align: left !important;
 }
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/poppins/Poppins-Regular.woff2') format('woff2'),
+         url('/fonts/poppins/Poppins-Regular.woff') format('woff'),
+         url('/fonts/poppins/Poppins-Regular.ttf') format('truetype');
+    font-weight: 400; /* Regular weight */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/poppins/Poppins-Bold.woff2') format('woff2'),
+         url('/fonts/poppins/Poppins-Bold.woff') format('woff'),
+         url('/fonts/poppins/Poppins-Bold.ttf') format('truetype');
+    font-weight: 700; /* Bold weight */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('/fonts/poppins/Poppins-Italic.woff2') format('woff2'),
+         url('/fonts/poppins/Poppins-Italic.woff') format('woff'),
+         url('/fonts/poppins/Poppins-Italic.ttf') format('truetype');
+    font-weight: 400; /* Italic weight */
+    font-style: italic;
+}
+
+/* Custom spacing for single-page layout */
+section {
+    padding: 4rem 0;
+}
+
+/* Optional: Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Left-align all text on the site */
+body {
+    text-align: left !important;
+}
+
+/* Override specific sections or blocks if needed */
+h1, h2, h3, h4, h5, h6 {
+    text-align: left !important;
+}
+
+p {
+    text-align: left !important;
+}
+
+/* Left-align unordered and ordered lists */
+ul, ol {
+    text-align: left !important;
+}
+
+/* Ensure list items are also aligned left */
+li {
+    text-align: left !important;
+}
+
+/* Left-align table headers and cells */
+table {
+    text-align: left !important;
+    width: 100%; /* Optional: Make the table span the full width */
+}
+
+th, td {
+    text-align: left !important;
+    padding: 8px; /* Optional: Add some padding for better readability */
+}
+
+/* Force left alignment for all elements */
+* {
+    text-align: left !important;
+}
+
+
+.mw5-ns {
+    width: 50px;
+    height: auto;
+}
+
+@media (max-width: 768px) {
+    .mw5-ns {
+        width: 30px; /* Smaller logo for mobile */
+    }
+}
+
 

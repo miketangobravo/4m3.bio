@@ -11,14 +11,12 @@
             "id": "4fc58ef2b2487e0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/en/_index.md",
-                "mode": "source",
-                "source": false
+                "file": "static/images/fotos/DSC_6040.jpg"
               },
-              "icon": "lucide-file",
-              "title": "_index"
+              "icon": "lucide-image",
+              "title": "DSC_6040"
             }
           }
         ]
@@ -164,29 +162,30 @@
   },
   "active": "4fc58ef2b2487e0c",
   "lastOpenFiles": [
-    "static/images/fotos/OpenVino_brain_logo_square.png",
+    "public/fonts/CircularStd/CircularStd-Medium.eot",
+    "public/fonts/CircularStd/CircularStd-Medium.woff",
+    "public/fonts/CircularStd/CircularStd-Book.woff2",
+    "public/fonts/CircularStd/demo.html",
+    "public/fonts/CircularStd/CircularStd-BlackItalic.woff2",
+    "public/fonts/CircularStd/CircularStd-Bold.woff2",
+    "public/fonts/CircularStd/CircularStd-Medium.ttf",
+    "public/fonts/CircularStd/CircularStd-BlackItalic.woff",
+    "public/fonts/CircularStd/CircularStd-BoldItalic.woff2",
+    "public/fonts/CircularStd/CircularStd-MediumItalic.woff",
+    "public/fonts/CircularStd/stylesheet.css",
+    "public/images/DSC_6040.jpg",
+    "static/images/DSC_6040.jpg",
+    "static/images/fotos/DSC_6033.jpg",
+    "static/images/fotos/DSC_6030.jpg",
+    "static/images/fotos/DSC_6025.jpg",
+    "static/images/fotos/DSC_6028.jpg",
+    "static/images/fotos/IMG_3297.JPG",
+    "static/images/fotos/IMG_3301.JPG",
+    "static/images/fotos/IMG_3303.JPG",
+    "static/images/fotos/IMG_3321.JPG",
     "content/en/_index.md",
-    "Pasted image 20241119214851.png",
-    "Mike_Tango_Bravo.jpeg",
-    "IMG_4352.jpeg",
-    "config.toml~",
-    "static/images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg",
-    "static/images/fotos/telegram-cloud-photo-size-1-5017394165876633092-y.jpg",
-    "static/images/fotos/telegram-cloud-photo-size-1-5017394165876633093-y.jpg",
-    "static/images/fotos/telegram-cloud-photo-size-1-5017394165876633094-y.jpg",
-    "static/images/fotos/telegram-cloud-photo-size-1-5017394165876633095-y.jpg",
-    "public/images/alpiste.jpg",
-    "public/categories/company-news/index.xml",
-    "public/categories/company-news/index.html",
-    "public/categories/company-news",
     "4m3.bio - website.md",
     "Rotate!.md",
-    "content/en/_index.md~",
-    "public/tags/wine/index.xml",
-    "public/tags/wine/index.html",
-    "public/tags/wine",
-    "public/tags/packaging/index.xml",
-    "public/tags/packaging/index.html",
     "README.md"
   ]
 }

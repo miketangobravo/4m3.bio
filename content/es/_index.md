@@ -1,76 +1,94 @@
 ---
-title: "Biofabricación de Cajas"
-description: "Innovación en empaques sostenibles a base de biofabricación"
+title: Cultivando Cajas para Vino
+description: Innovando packaging sostenible con biofabricación
+author: Mike Tango Bravo
+tags:
+  - mycelium
+  - biofabrication
+  - wine
+  - packaging
+background_color_class: bg-blue
+cover_dimming_class: bg-black-40
+cascade:
+  featured_image: /images/fotos/DSC_6036.jpg
 ---
 
-## ¿Qué es la biofabricación de cajas? 🍄+🍇=📦
+##  ¡Biofabricación! 
+🍄+🍇=📦
 
-La biofabricación nos permite cultivar materiales para empaques compostables y sostenibles, hechos a partir de hongos y desechos agrícolas.
+“Cultivamos” packaging compostables y sostenibles para el vino, utilizando dos ingredientes:
 
----
-
-## El material y sus bondades
-
-Nuestro material es totalmente natural, compostable y adecuado para el sector vitivinícola, ofreciendo una alternativa ecológica a los empaques tradicionales.
-
----
-
-## El proceso
-
-1. **Cultivo del material**: Utilizamos hongos y residuos de la industria agrícola.
-2. **Moldeado y conformación**: El material se moldea para adaptarse a las necesidades de empaque.
-3. **Secado y endurecimiento**: El material se seca para obtener una estructura resistente.
-
----
-
-## Galería de Fotos
-
-![Caja Biofabricada 1](images/caja1.jpg)
-![Caja Biofabricada 2](images/caja2.jpg)
+micelio (hongos) y
+residuos de la viña (poda de la vid).
 
 ---
 
-## Nuestro objetivo: empoderar a las bodegas para cultivar sus propias cajas
+## Protejer tu Vino
 
-Queremos que las bodegas puedan cultivar sus propios empaques sostenibles para reducir el impacto ambiental.
+Biopackaging es más resistente que el poliestireno, más ligero que la madera y no requiere un exterior de cartón.
 
----
+Estas cajas protegen el vino de vibraciones, cambios bruscos de temperatura e impactos, y están listas para enviarse a comercios y clientes.
 
-## Que buscamos ahora
-
-- **Bodega partner** que desee recibir las primeras 1000 cajas biofabricadas.
-- **Bodegas interesadas** en cultivar sus propias cajas en el futuro.
+Se pueden cultivar en la bodega, utilizando los materials de poda de su propio viñedo.
 
 ---
 
-## Qué hemos hecho hasta ahora
+## El Proceso es Simple
 
-Hemos desarrollado prototipos y obtenido resultados prometedores en la producción de cajas biofabricadas.
-
-![Prototipo 1](images/prototipo1.jpg)
-![Prototipo 2](images/prototipo2.jpg)
-
----
-
-## Quienes somos
-
-Somos un equipo de expertos en biofabricación, ciencia ambiental y marketing, dedicados a crear empaques sostenibles.
-
-- **Nombre 1** - Especialista en Biofabricación
-- **Nombre 2** - Científico Ambiental
-- **Nombre 3** - Especialista en Marketing
+1. Tritura los restos de poda de vid.
+2. Limpia el triturado y mezclar con una pequeña cantidad de semillas inoculadas con hongos.
+3. Coloca la mezcla en un molde para cajas de vino y espera 5 días para la colonización del micelio.
+4. Retira el biopackaging recién cultivado del molde y déjalo secar.
+5. Calentar la caja a 80 ˚C para eliminar la humedad restante y detener el crecimiento del micelio.
+6. ¡Envía tus vinos a todo el mundo!
 
 ---
 
-## Formulario de Contacto - "Quiero Saber Más"
 
-Si te interesa saber más sobre nuestra iniciativa o deseas colaborar, completa el formulario a continuación.
+![](images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
+
+![](images/fotos/IMG_3297.JPG)
+---
+
+## Nuestro objetivo: empoderar a las bodegas cultivar sus propias cajas
+
+Permitimos que las bodegas CULTIVEN sus propios envases sostenibles.
+
+Durante 10.000 años, las uvas trituradas y los hongos (levaduras) han producido vino: 🍄+🍇=🍷
+
+Ahora, las bodegas pueden producir vino y cultivar envases a partir de las MISMAS vides: 🍄+🍇=📦
+
+---
+
+## Nosotros estamos buscando:
+
+** Nuestra primera bodega**
+
+Estamos buscando quien será la PRIMERA bodega del mundo que utilice biopackaging con micelio.
+
+Le ayudaremos a cultivar sus primeras 1000 cajas y le enseñaremos el proceso. Su marca llevará esta tecnología al mundo y lo acompañaremos en el escenario en los eventos vitivinícolas del mundo para apoyar el anuncio.
+## El equipo de 4m3.bio
+
+Somos un equipo de expertos en biofabricación, micología y negocios descentralizados: apasionados por cultivar envases sostenibles.
+
+
+|                                                                                |                                |
+| ------------------------------------------------------------------------------ | ------------------------------ |
+| [Mica Vera](https://www.linkedin.com/in/mica-vera-fernández-0b136a1/)          | PM / Relaciones con Bodegas    |
+| [Dr. Pablo Postemsky](https://www.linkedin.com/in/pablo-d-postemsky-70009896/) | Micólogo jefe                  |
+| [Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)              | Especialista en biofabricación |
+| [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Diseñador industrial           |
+| [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Líder del proyecto             |
+
+---
+
+## Contactanos: info@4m3.bio
 
 <form name="contact" method="POST" data-netlify="true">
   <input type="hidden" name="form-name" value="contact">
-  <p><label>Nombre: <input type="text" name="name"></label></p>
-  <p><label>Email: <input type="email" name="email"></label></p>
-  <p><label>Mensaje: <textarea name="message"></textarea></label></p>
-  <p><button type="submit">Enviar</button></p>
+  <p><label>Your Name: <input type="text" name="name"></label></p>
+  <p><label>Your Email: <input type="email" name="email"></label></p>
+  <p><label>Your Message: <textarea name="message"></textarea></label></p>
+  <p><button type="submit">Send</button></p>
 </form>
 

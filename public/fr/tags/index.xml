@@ -7,5 +7,33 @@
     <generator>Hugo</generator>
     <language>fr</language>
     <atom:link href="https://4m3.bio/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biofabrication</title>
+      <link>https://4m3.bio/fr/tags/biofabrication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://4m3.bio/fr/tags/biofabrication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mycelium</title>
+      <link>https://4m3.bio/fr/tags/mycelium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://4m3.bio/fr/tags/mycelium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Packaging</title>
+      <link>https://4m3.bio/fr/tags/packaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://4m3.bio/fr/tags/packaging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wine</title>
+      <link>https://4m3.bio/fr/tags/wine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://4m3.bio/fr/tags/wine/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

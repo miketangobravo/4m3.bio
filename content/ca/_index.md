@@ -1,75 +1,93 @@
 ---
-title: "Biofabricació de Caixes"
-description: "Innovació en embalatge sostenible a través de la biofabricació"
+title: Conrear Caixes de Vi
+description: Innovar Envasos Sostenibles amb Biofabricació
+author: Mike Tango Bravo
+tags:
+  - mycelium
+  - biofabrication
+  - wine
+  - packaging
+background_color_class: bg-blue
+cover_dimming_class: bg-black-40
+cascade:
+  featured_image: /images/fotos/DSC_6036.jpg
 ---
 
-## Què és la biofabricació de caixes? 🍄+🍇=📦
+## Biofabricació! 
+🍄+🍇=📦
 
-La biofabricació ens permet crear materials d'embalatge compostables i sostenibles, utilitzant fongs i residus agrícoles.
+"Creïm" materials d'envasament de vi compostables i sostenibles, utilitzant dos ingredients:
 
----
-
-## El Material i Els Seus Beneficis
-
-El nostre material és completament natural, compostable i dissenyat per a la indústria del vi, oferint una alternativa ecològica als embalatges tradicionals.
-
----
-
-## El Procés
-
-1. **Cultiu del Material**: Utilitzem fongs i residus agrícoles.
-2. **Modelatge i Donat de Forma**: El material es modela per adaptar-se a les necessitats d'embalatge.
-3. **Assecat i Enduriment**: El material s'asseca per obtenir una estructura resistent.
-
----
-
-## Galeria de Fotos
-
-![Caixa Biofabricada 1](images/caixa1.jpg)
-![Caixa Biofabricada 2](images/caixa2.jpg)
+miceli (fongs) i
+residus de vinya (poda de vinya).
 
 ---
 
-## El Nostre Objectiu: Empoderar els Cellers per Cultivar les Seves Pròpies Caixes
+## Protegeix el teu vi
 
-Volem que els cellers puguin cultivar els seus propis embalatges sostenibles, reduint l'impacte ambiental.
+El bioenvàs és més fort que l'escuma de poliestirè, més lleuger que la fusta i no requereix un envàs de cartró exterior.
 
----
+Aquestes caixes protegeixen el vostre vi de vibracions, canvis de temperatura i impactes, i estan a punt per enviar-los als minoristes i als clients.
 
-## Què Busquem Ara
-
-- **Celler Soci** interessat a rebre les primeres 1000 caixes biofabricades.
-- **Cellers** interessats a cultivar les seves pròpies caixes en el futur.
+Es poden cultivar al celler, utilitzant les restes de la vinya.
 
 ---
 
-## Què Hem Fet Fins Ara
+## El procés és senzill
 
-Hem desenvolupat prototips i hem obtingut resultats prometedors en la producció de caixes biofabricades.
-
-![Prototip 1](images/prototip1.jpg)
-![Prototip 2](images/prototip2.jpg)
-
----
-
-## Qui Som
-
-Som un equip d'experts en biofabricació, ciències ambientals i màrqueting, dedicats a crear embalatge sostenible.
-
-- **Nom 1** - Especialista en Biofabricació
-- **Nom 2** - Científic Ambiental
-- **Nom 3** - Especialista en Màrqueting
+1. Tritureu la poda de la vinya en un mulch.
+2. Netegeu la poda triturada i barregeu-la amb una petita quantitat de llavors inoculades amb fongs.
+3. Col·loqueu la mescla en un motlle de caixa de vi i espereu 5 dies perquè el miceli colonitzi els esqueixos de vinya.
+4. Retireu el bioenvàs recentment cultivat del motlle i deixeu-ho assecar.
+5. Escalfeu la caixa a 80˚C per eliminar la humitat restant i aturar el creixement del miceli.
+6. Envia els teus vins a tot el món!
 
 ---
 
-## Formulari de Contacte - "Vull Saber-ne Més"
 
-Si estàs interessat a saber-ne més o a col·laborar, completa el formulari a continuació.
+![](images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
+
+![](images/fotos/IMG_3297.JPG)
+---
+
+## El nostre objectiu: habilitar els cellers per cultivar les seves pròpies caixes
+
+Permet als cellers CULTIVAR els seus propis envasos sostenibles.
+
+Durant 10.000 anys, el raïm triturat i els fongs (llevat) han produït vi: 🍄+🍇=🍷
+
+Ara, els cellers poden elaborar vi i cultivar envasos a partir de les MATEIXES ceps: 🍄+🍇=📦
+
+---
+
+## Estem buscant:
+
+** El nostre primer celler soci**
+
+Busquem el PRIMER celler del món que utilitza bioenvasos de miceli.
+
+T'ajudarem a fer créixer les teves primeres 1000 caixes i t'ensenyarem el procés. La vostra marca portarà aquesta tecnologia al món i ens unirem a vosaltres a l'escenari dels esdeveniments vinícoles del món per donar suport a l'anunci.
+## L'equip 4m3.bio
+
+Som un equip d'experts en biofabricació, micologia i negoci descentralitzat: apassionats per fer créixer envasos sostenibles.
+
+|                                                                                |                               |
+| ------------------------------------------------------------------------------ | ----------------------------- |
+| [Mica Vera](https://www.linkedin.com/in/mica-vera-fernández-0b136a1/)          | PM / Relacions Celler         |
+| [Dr. Pablo Postemsky](https://www.linkedin.com/in/pablo-d-postemsky-70009896/) | Micòleg en cap                |
+| [Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)              | Especialista en Biofabricació |
+| [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Dissenyador industrial        |
+| [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Cap de projecte               |
+
+---
+
+## Contacta amb nosaltres: info@4m3.bio
 
 <form name="contact" method="POST" data-netlify="true">
   <input type="hidden" name="form-name" value="contact">
-  <p><label>Nom: <input type="text" name="name"></label></p>
-  <p><label>Email: <input type="email" name="email"></label></p>
-  <p><label>Missatge: <textarea name="message"></textarea></label></p>
-  <p><button type
+  <p><label>Your Name: <input type="text" name="name"></label></p>
+  <p><label>Your Email: <input type="email" name="email"></label></p>
+  <p><label>Your Message: <textarea name="message"></textarea></label></p>
+  <p><button type="submit">Send</button></p>
+</form>
 

@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://4m3.bio/tags/biofabrication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://4m3.bio/fr/tags/biofabrication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://4m3.bio/es/tags/biofabrication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://4m3.bio/it/tags/biofabrication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://4m3.bio/ca/tags/biofabrication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://4m3.bio/tags/biofabrication/"
+                />
   </url><url>
     <loc>https://4m3.bio/categories/</loc>
     <xhtml:link
@@ -59,8 +84,58 @@
                 />
   </url><url>
     <loc>https://4m3.bio/tags/mycelium/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://4m3.bio/fr/tags/mycelium/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://4m3.bio/es/tags/mycelium/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://4m3.bio/it/tags/mycelium/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://4m3.bio/ca/tags/mycelium/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://4m3.bio/tags/mycelium/"
+                />
   </url><url>
     <loc>https://4m3.bio/tags/packaging/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://4m3.bio/fr/tags/packaging/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://4m3.bio/es/tags/packaging/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://4m3.bio/it/tags/packaging/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://4m3.bio/ca/tags/packaging/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://4m3.bio/tags/packaging/"
+                />
   </url><url>
     <loc>https://4m3.bio/tags/</loc>
     <xhtml:link
@@ -90,5 +165,30 @@
                 />
   </url><url>
     <loc>https://4m3.bio/tags/wine/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://4m3.bio/fr/tags/wine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://4m3.bio/es/tags/wine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://4m3.bio/it/tags/wine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="https://4m3.bio/ca/tags/wine/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://4m3.bio/tags/wine/"
+                />
   </url>
 </urlset>

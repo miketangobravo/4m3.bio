@@ -137,3 +137,10 @@ th, td {
 }
 
 
+/* Set Global Background Color */
+
+body {
+    background-color: #ffffff !important; /* White background */
+    color: #000000; /* Optional: Set text color for better contrast */
+}
+

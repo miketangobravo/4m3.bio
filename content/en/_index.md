@@ -7,16 +7,19 @@ tags:
   - biofabrication
   - wine
   - packaging
-background_color_class: bg-blue
+#background_color_class: bg-blue
 cover_dimming_class: bg-black-40
 cascade:
-  featured_image: '/images/fotos/DSC_6036.jpg'
-
+  featured_image: /images/fotos/DSC_6036.jpg
 ---
 
-## What is Biofabrication? 🍄+🍇=📦
+## Biofabrication! 
+🍄+🍇=📦
 
-We "grow" compostable and sustainable wine packaging materials, using only two ingredients: mycelium (fungi) and vineyard waste (vine pruning).
+We "grow" compostable and sustainable wine packaging materials, using two ingredients: 
+
+mycelium (fungi) and 
+vineyard waste (vine pruning).
 
 ---
 
@@ -33,8 +36,8 @@ They can be grown at the winery, using your own vineyard waste.
 ## The Process is Simple
 
 1. Shred your vine pruning into a mulch.
-2. Mix the shredded pruning with a tiny amount of fungi-inoculated seeds and water.
-3. Place this mixture into a customized, wine-box mould, and wait 5 days for the mycelium to colonize the vineyard cuttings. 
+2. Clean the shredded pruning, and mix with a small amount of fungi-inoculated seeds.
+3. Place the mixture into a wine-box mould, and wait 5 days for the mycelium to colonize the vineyard cuttings. 
 4. Remove the newly grown biopackaging from the mould and allow to dry.
 5. Heat the box to 80˚C, to remove any remaining moisture and stop further mycelial growth.
 6. Ship your wines around the world!
@@ -43,7 +46,9 @@ They can be grown at the winery, using your own vineyard waste.
 
 
 ![](images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
-
+![](images/fotos/2box_lid.jpg)
+![](images/fotos/sixbottle.jpg)
+![](images/fotos/empty_shadow.jpg)
 ![](images/fotos/IMG_3297.JPG)
 ---
 
@@ -57,11 +62,11 @@ Now, wineries can make wine and grow packaging from the SAME vines: 🍄+🍇=�
 
 ---
 
-## What We’re Looking For:
+## We’re Looking For:
 
-**Premier Winery Partner**
+** Our Premier Winery Partner**
 
-We are looking for the FIRST winery in the world to use mycelium packaging. 
+We are looking for the FIRST winery in the world to use mycelium biopackaging. 
 
 We will help you grow your first 1000 boxes, and teach you the process. Your brand will bring this technology to the world, and we will join you on stage at the world's wine events, to support the announcement.
 ## The 4m3.bio Team
@@ -69,14 +74,14 @@ We will help you grow your first 1000 boxes, and teach you the process. Your bra
 We are a team of experts in biofabrication, mycology, and decentralized business: passionate about growing sustainable packaging.
 
 
-|                                                                                    |                               |
-| ---------------------------------------------------------------------------------- | ----------------------------- |
-| [Mica Vera](https://www.linkedin.com/in/mica-vera-fernández-0b136a1/)          | PM / Winery Relations     |
-| [Dr. Pablo Postemsky](https://www.linkedin.com/in/pablo-d-postemsky-70009896/) | Chief Mycologist          |
-| [Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)              | Biofabrication Specialist |
-| [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Industrial Designer       |
-| [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Project Lead              |
-
+|                                                                                |                           |     |
+| ------------------------------------------------------------------------------ | ------------------------- | --- |
+| [Mica Vera](https://www.linkedin.com/in/mica-vera-fernández-0b136a1/)          | PM / Winery Relations     |     |
+| [Dr. Pablo Postemsky](https://www.linkedin.com/in/pablo-d-postemsky-70009896/) | Chief Mycologist          |     |
+| [Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)              | Biofabrication Specialist |     |
+| [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Industrial Designer       |     |
+| [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Project Lead              |     |
+![](images/two_squares.jpg)
 ---
 
 ## Contact us: info@4m3.bio

@@ -1,74 +1,94 @@
 ---
-title: "Biofabrication de Boîtes"
-description: "Innovation dans les emballages durables par la biofabrication"
+title: Cultiver l'emballage du Vin
+description: Innover des emballages grâce à la biofabrication
+author: Mike Tango Bravo
+tags:
+  - mycelium
+  - biofabrication
+  - wine
+  - packaging
+background_color_class: bg-blue
+cover_dimming_class: bg-black-40
+cascade:
+  featured_image: /images/fotos/DSC_6036.jpg
 ---
 
-## Qu'est-ce que la biofabrication de boîtes? 🍄+🍇=📦
+## Biofabrication! 
+🍄+🍇=📦
 
-La biofabrication nous permet de créer des matériaux d'emballage compostables et durables, en utilisant des champignons et des déchets agricoles.
+Nous « cultivons » des emballages compostables et durables pour le vin, en utilisant deux ingrédients :
 
----
-
-## Le Matériau et Ses Avantages
-
-Notre matériau est entièrement naturel, compostable et conçu pour l'industrie viticole, offrant une alternative écologique aux emballages traditionnels.
-
----
-
-## Le Processus
-
-1. **Culture du Matériau**: Utilisation de champignons et de résidus agricoles.
-2. **Moulage et Formage**: Le matériau est moulé selon les besoins d'emballage.
-3. **Séchage et Durcissement**: Le matériau est séché pour créer une structure solide.
-
----
-
-## Galerie de Photos
-
-![Boîte Biofabricée 1](images/boite1.jpg)
-![Boîte Biofabricée 2](images/boite2.jpg)
+mycélium (champignons) et
+résidus de vigne (taille de la vigne).
 
 ---
 
-## Notre Objectif: Permettre aux Vignobles de Cultiver Leurs Propres Boîtes
+## Protégez votre vin
 
-Nous voulons que les vignobles puissent cultiver leurs propres emballages durables, réduisant ainsi l'impact environnemental.
+Le bioemballage est plus résistant que le polystyrène, plus léger que le bois et ne nécessite pas d'extérieur en carton.
 
----
+Ces coffrets protègent le vin des vibrations, des changements brusques de température et des chocs, et sont prêts à être expédiés aux commerçants et clients.
 
-## Ce que Nous Recherchons
-
-- **Vignoble partenaire** intéressé par les premières 1000 boîtes biofabriquées.
-- **Vignobles** intéressés par la culture de leurs propres boîtes à l'avenir.
+Ils peuvent être cultivés au chai, en utilisant le matériel de taille de votre propre vignoble.
 
 ---
 
-## Ce que Nous Avons Réalisé Jusqu'à Présent
+## Le processus est simple
 
-Nous avons développé des prototypes et obtenu des résultats prometteurs dans la production de boîtes biofabriquées.
-
-![Prototype 1](images/prototype1.jpg)
-![Prototype 2](images/prototype2.jpg)
-
----
-
-## Qui Nous Sommes
-
-Nous sommes une équipe d'experts en biofabrication, en science environnementale et en marketing, dédiée à la création d'emballages durables.
-
-- **Nom 1** - Spécialiste en Biofabrication
-- **Nom 2** - Scientifique Environnemental
-- **Nom 3** - Spécialiste en Marketing
+1. Broyer les restes de taille de vigne.
+2. Nettoyer et mélanger avec une petite quantité de graines inoculées de mycélium.
+3. Placer le mélange dans un moule pour caisses à vin et attendre 5 jours que le mycélium colonise.
+4. Retirez le bioemballage fraîchement cultivé du moule et laissez-le sécher.
+5. Chauffez la boîte à 80 °C pour éliminer toute humidité restante et arrêter la croissance du mycélium.
+6. Envoyez vos vins dans le monde entier !
 
 ---
 
-## Formulaire de Contact - "Je Veux en Savoir Plus"
 
-Si vous souhaitez en savoir plus ou collaborer, remplissez le formulaire ci-dessous.
+![](images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
+
+![](images/fotos/IMG_3297.JPG)
+---
+
+## Notre objectif : permettre aux vignobles de cultiver leurs propres caisses
+
+Nous permettons aux établissements vinicoles de CULTIVER leurs propres emballages écologique.
+
+Depuis 10 000 ans, les raisins foulés et les champignons (levures) produisent du vin : 🍄+🍇=🍷
+
+Les établissements vinicoles peuvent désormais produire du vin et cultiver des emballages à partir des MÊMES vignes : 🍄+🍇=📦
+
+---
+
+## Nous recherchons :
+
+**Notre premier domaine viticole**
+
+Nous recherchons qui sera la PREMIÈRE cave au monde à utiliser le bioemballage avec du mycélium.
+
+Nous vous aiderons à cultiver vos 1000 premières boîtes et vous apprendrons le processus. Votre marque apportera cette technologie au monde et nous vous rejoindrons sur scène lors des événements vitivinicoles mondiaux pour soutenir cette annonce.
+## L'équipe 4m3.bio
+
+Nous sommes une équipe d'experts en biofabrication, mycologie et commerce décentralisé : passionnés par la culture d'emballages écologiques.
+
+
+|                                                                                |                                  |
+| ------------------------------------------------------------------------------ | -------------------------------- |
+| [Mica Vera](https://www.linkedin.com/in/mica-vera-fernández-0b136a1/)          | PM / Relations avec les Domaines |
+| [Dr. Pablo Postemsky](https://www.linkedin.com/in/pablo-d-postemsky-70009896/) | Mycologue en chef                |
+| [Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)              | Spécialiste de la biofabrication |
+| [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Designer industriel              |
+| [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Chef de projet                   |
+
+---
+
+## Contactez-nous: info@4m3.bio
 
 <form name="contact" method="POST" data-netlify="true">
   <input type="hidden" name="form-name" value="contact">
-  <p><label>Nom: <input type="text" name="name"></label></p>
-  <p><label>Email: <input type="email" name="email"></label></p>
-  <p><label>Message: <textarea name="message"></texta
+  <p><label>Your Name: <input type="text" name="name"></label></p>
+  <p><label>Your Email: <input type="email" name="email"></label></p>
+  <p><label>Your Message: <textarea name="message"></textarea></label></p>
+  <p><button type="submit">Send</button></p>
+</form>
 

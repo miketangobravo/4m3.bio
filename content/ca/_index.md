@@ -45,8 +45,11 @@ Es poden cultivar al celler, utilitzant les restes de la vinya.
 ---
 
 
-![](images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
 
+![](images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
+![](images/fotos/2box_lid.jpg)
+![](images/fotos/sixbottle.jpg)
+![](images/fotos/empty_shadow.jpg)
 ![](images/fotos/IMG_3297.JPG)
 ---
 
@@ -62,7 +65,7 @@ Ara, els cellers poden elaborar vi i cultivar envasos a partir de les MATEIXES c
 
 ## Estem buscant:
 
-** El nostre primer celler soci**
+El nostre primer celler soci
 
 Busquem el PRIMER celler del món que utilitza bioenvasos de miceli.
 
@@ -78,7 +81,7 @@ Som un equip d'experts en biofabricació, micologia i negoci descentralitzat: ap
 | [Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)              | Especialista en Biofabricació |
 | [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Dissenyador industrial        |
 | [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Cap de projecte               |
-
+![](images/two_squares.jpg)
 ---
 
 ## Contacta amb nosaltres: info@4m3.bio

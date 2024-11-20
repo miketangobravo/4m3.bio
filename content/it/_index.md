@@ -45,8 +45,11 @@ Possono essere coltivati ​​in cantina, utilizzando potature provenienti dal 
 ---
 
 
-![](images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
 
+![](images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
+![](images/fotos/2box_lid.jpg)
+![](images/fotos/sixbottle.jpg)
+![](images/fotos/empty_shadow.jpg)
 ![](images/fotos/IMG_3297.JPG)
 ---
 
@@ -79,7 +82,7 @@ Siamo un team di esperti in bioproduzione, micologia e business decentralizzato:
 | [Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)              | Specialista in bioproduzione          |
 | [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Progettista industriale               |
 | [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Responsabile del progetto             |
-
+![](images/two_squares.jpg)
 ---
 
 ## Contattaci: info@4m3.bio

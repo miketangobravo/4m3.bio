@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/_index.md",
+                "file": "content/it/_index.md",
                 "mode": "source",
                 "source": false
               },
@@ -164,6 +164,11 @@
   },
   "active": "4fc58ef2b2487e0c",
   "lastOpenFiles": [
+    "content/fr/_index.md",
+    "content/es/_index.md",
+    "content/ca/_index.md",
+    "content/en/_index.md",
+    "content/it/_index.md",
     "config.toml~",
     "public/images/two_squares.jpg",
     "static/images/two_squares.jpg",
@@ -175,11 +180,6 @@
     "public/images/fotos/sixbottle.jpg",
     "public/images/2box_lid.jpg",
     "static/images/2box_lid.jpg",
-    "content/it/_index.md",
-    "content/es/_index.md",
-    "content/fr/_index.md",
-    "content/en/_index.md",
-    "content/ca/_index.md",
     "public/es/tags/packaging/index.xml",
     "public/es/tags/wine/index.xml",
     "public/es/tags/biofabrication/index.xml",
@@ -189,7 +189,6 @@
     "public/es/tags/wine/index.html",
     "public/es/tags/wine",
     "public/es/tags/biofabrication/index.html",
-    "public/es/tags/biofabrication",
     "4m3.bio - website.md",
     "Rotate!.md",
     "README.md"

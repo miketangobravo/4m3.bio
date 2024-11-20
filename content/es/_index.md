@@ -45,8 +45,11 @@ Se pueden cultivar en la bodega, utilizando los materials de poda de su propio v
 ---
 
 
-![](images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
 
+![](images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
+![](images/fotos/2box_lid.jpg)
+![](images/fotos/sixbottle.jpg)
+![](images/fotos/empty_shadow.jpg)
 ![](images/fotos/IMG_3297.JPG)
 ---
 
@@ -62,7 +65,7 @@ Ahora, las bodegas pueden producir vino y cultivar envases a partir de las MISMA
 
 ## Nosotros estamos buscando:
 
-** Nuestra primera bodega**
+Nuestra primera bodega
 
 Estamos buscando quien será la PRIMERA bodega del mundo que utilice biopackaging con micelio.
 
@@ -79,7 +82,7 @@ Somos un equipo de expertos en biofabricación, micología y negocios descentral
 | [Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)              | Especialista en biofabricación |
 | [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Diseñador industrial           |
 | [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Líder del proyecto             |
-
+![](images/two_squares.jpg)
 ---
 
 ## Contactanos: info@4m3.bio

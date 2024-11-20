@@ -64,7 +64,7 @@ Now, wineries can make wine and grow packaging from the SAME vines: 🍄+🍇=�
 
 ## We’re Looking For:
 
-** Our Premier Winery Partner**
+Our Premier Winery Partner
 
 We are looking for the FIRST winery in the world to use mycelium biopackaging. 
 

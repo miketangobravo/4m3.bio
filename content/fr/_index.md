@@ -45,8 +45,11 @@ Ils peuvent être cultivés au chai, en utilisant le matériel de taille de votr
 ---
 
 
-![](images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
 
+![](images/fotos/telegram-cloud-photo-size-1-5017394165876633091-y.jpg)
+![](images/fotos/2box_lid.jpg)
+![](images/fotos/sixbottle.jpg)
+![](images/fotos/empty_shadow.jpg)
 ![](images/fotos/IMG_3297.JPG)
 ---
 
@@ -79,7 +82,7 @@ Nous sommes une équipe d'experts en biofabrication, mycologie et commerce déce
 | [Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)              | Spécialiste de la biofabrication |
 | [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Designer industriel              |
 | [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Chef de projet                   |
-
+![](images/two_squares.jpg)
 ---
 
 ## Contactez-nous: info@4m3.bio

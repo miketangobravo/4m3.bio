@@ -1,11 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Growing Wine Packaging</title>
-    <link>https://4m3.bio/fr/categories/</link>
-    <description>Recent content in Categories on Growing Wine Packaging</description>
+    <title>Growing Wine Packaging</title>
+    <link>http://localhost:1313/fr/categories/</link>
+    <description>Recent content on Growing Wine Packaging</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <atom:link href="https://4m3.bio/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/fr/tags/wine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/wine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/fr/tags/packaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/packaging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/fr/tags/mycelium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/mycelium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/fr/tags/biofabrication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/biofabrication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/fr/tags/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/tags/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/fr/categories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/categories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cultiver l&#39;emballage du Vin</title>
+      <link>http://localhost:1313/fr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fr/</guid>
+      <description>&lt;h2 id=&#34;biofabrication&#34;&gt;Biofabrication!&lt;/h2&gt;&#xA;&lt;p&gt;🍄+🍇=📦&lt;/p&gt;&#xA;&lt;p&gt;Nous « cultivons » des emballages compostables et durables pour le vin, en utilisant deux ingrédients :&lt;/p&gt;&#xA;&lt;p&gt;mycélium (champignons) et&#xA;résidus de vigne (taille de la vigne).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;protégez-votre-vin&#34;&gt;Protégez votre vin&lt;/h2&gt;&#xA;&lt;p&gt;Le bioemballage est plus résistant que le polystyrène, plus léger que le bois et ne nécessite pas d&amp;rsquo;extérieur en carton.&lt;/p&gt;&#xA;&lt;p&gt;Ces coffrets protègent le vin des vibrations, des changements brusques de température et des chocs, et sont prêts à être expédiés aux commerçants et clients.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -46,11 +46,11 @@ Ils peuvent être cultivés au chai, en utilisant le matériel de taille de votr
 
 
 
-![](images/bluesky.jpg)
-![](images/2box_lid.jpg)
-![](images/sixbottle.jpg)
-![](images/empty_shadow.jpg)
-![](images/oblique_box.jpg)
+![](/images/bluesky.jpg)
+![](/images/2box_lid.jpg)
+![](/images/sixbottle.jpg)
+![](/images/empty_shadow.jpg)
+![](/images/oblique_box.jpg)
 ---
 
 ## Notre objectif : permettre aux vignobles de cultiver leurs propres caisses
@@ -82,7 +82,7 @@ Nous sommes une équipe d'experts en biofabrication, mycologie et commerce déce
 | [Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)              | Spécialiste de la biofabrication |
 | [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Designer industriel              |
 | [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Chef de projet                   |
-![](images/two_squares.jpg)
+![](/images/two_squares.jpg)
 ---
 
 ## Contactez-nous: info@4m3.bio

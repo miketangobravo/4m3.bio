@@ -45,11 +45,11 @@ Es poden cultivar al celler, utilitzant les restes de la vinya.
 ---
 
 
-![](images/bluesky.jpg)
-![](images/2box_lid.jpg)
-![](images/sixbottle.jpg)
-![](images/empty_shadow.jpg)
-![](images/oblique_box.jpg)
+![](/images/bluesky.jpg)
+![](/images/2box_lid.jpg)
+![](/images/sixbottle.jpg)
+![](/images/empty_shadow.jpg)
+![](/images/oblique_box.jpg)
 ---
 
 ## El nostre objectiu: habilitar els cellers per cultivar les seves pròpies caixes
@@ -80,7 +80,7 @@ Som un equip d'experts en biofabricació, micologia i negoci descentralitzat: ap
 | [Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)              | Especialista en Biofabricació |
 | [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Dissenyador industrial        |
 | [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Cap de projecte               |
-![](images/two_squares.jpg)
+![](/images/two_squares.jpg)
 ---
 
 ## Contacta amb nosaltres: info@4m3.bio

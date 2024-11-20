@@ -45,11 +45,11 @@ They can be grown at the winery, using your own vineyard waste.
 ---
 
 
-![](images/bluesky.jpg)
-![](images/2box_lid.jpg)
-![](images/sixbottle.jpg)
-![](images/empty_shadow.jpg)
-![](images/oblique_box.jpg)
+![](/images/bluesky.jpg)
+![](/images/2box_lid.jpg)
+![](/images/sixbottle.jpg)
+![](/images/empty_shadow.jpg)
+![](/images/oblique_box.jpg)
 ---
 
 ## Our Goal: Empower Wineries to Grow Their Own Boxes
@@ -81,7 +81,7 @@ We are a team of experts in biofabrication, mycology, and decentralized business
 | [Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)              | Biofabrication Specialist |     |
 | [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Industrial Designer       |     |
 | [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Project Lead              |     |
-![](images/two_squares.jpg)
+![](/images/two_squares.jpg)
 ---
 
 ## Contact us: info@4m3.bio

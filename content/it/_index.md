@@ -45,11 +45,11 @@ Possono essere coltivati ​​in cantina, utilizzando potature provenienti dal 
 ---
 
 
-![](images/bluesky.jpg)
-![](images/2box_lid.jpg)
-![](images/sixbottle.jpg)
-![](images/empty_shadow.jpg)
-![](images/oblique_box.jpg)
+![](/images/bluesky.jpg)
+![](/images/2box_lid.jpg)
+![](/images/sixbottle.jpg)
+![](/images/empty_shadow.jpg)
+![](/images/oblique_box.jpg)
 ---
 
 ## Il nostro obiettivo: consentire alle aziende vinicole di coltivare le proprie scatole
@@ -81,7 +81,7 @@ Siamo un team di esperti in bioproduzione, micologia e business decentralizzato:
 | [Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)              | Specialista in bioproduzione          |
 | [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Progettista industriale               |
 | [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Responsabile del progetto             |
-![](images/two_squares.jpg)
+![](/images/two_squares.jpg)
 ---
 
 ## Contattaci: info@4m3.bio

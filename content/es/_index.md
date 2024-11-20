@@ -46,11 +46,11 @@ Se pueden cultivar en la bodega, utilizando los materials de poda de su propio v
 
 
 
-![](images/bluesky.jpg)
-![](images/2box_lid.jpg)
-![](images/sixbottle.jpg)
-![](images/empty_shadow.jpg)
-![](images/oblique_box.jpg)
+![](/images/bluesky.jpg)
+![](/images/2box_lid.jpg)
+![](/images/sixbottle.jpg)
+![](/images/empty_shadow.jpg)
+![](/images/oblique_box.jpg)
 ---
 
 ## Nuestro objetivo: empoderar a las bodegas cultivar sus propias cajas
@@ -82,7 +82,7 @@ Somos un equipo de expertos en biofabricación, micología y negocios descentral
 | [Kevin Gartner](https://youtu.be/dQw4w9WgXcQ?si=-2hPaneFe2LBzwxd)              | Especialista en biofabricación |
 | [Stefano Gallerani ](https://www.linkedin.com/in/stefano-gallerani-8836001a0/) | Diseñador industrial           |
 | [Mike Tango Bravo](https://www.linkedin.com/in/barrowmike/)                    | Líder del proyecto             |
-![](images/two_squares.jpg)
+![](/images/two_squares.jpg)
 ---
 
 ## Contactanos: info@4m3.bio

@@ -1,40 +1,4 @@
-o* Font setting? */
-body {
-    font-family: 'CircularSTD', sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'CircularSTD', sans-serif;
-}
-
-p {
-    font-family: 'CircularSTD', sans-serif;
-}
-
-/* Custom spacing for single-page layout */
-section {
-    padding: 4rem 0;
-}
-
-/* Optional: Smooth scrolling */
-html {
-    scroll-behavior: smooth;
-}
-
-/* Left-align all text on the site */
-body {
-    text-align: left !important;
-}
-
-/* Override specific sections or blocks if needed */
-h1, h2, h3, h4, h5, h6 {
-    text-align: left !important;
-}
-
-p {
-    text-align: left !important;
-}
-
+/* Font setting? */
 @font-face {
     font-family: 'CircularStd';
     src: url('/fonts/CircularStd/CircularStd-Book.woff2') format('woff2'),
@@ -87,6 +51,41 @@ p {
          url('/fonts/poppins/Poppins-Italic.ttf') format('truetype');
     font-weight: 400; /* Italic weight */
     font-style: italic;
+}
+body {
+    font-family: 'CircularSTD', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'CircularSTD', sans-serif;
+}
+
+p {
+    font-family: 'CircularSTD', sans-serif;
+}
+
+/* Custom spacing for single-page layout */
+section {
+    padding: 4rem 0;
+}
+
+/* Optional: Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Left-align all text on the site */
+body {
+    text-align: left !important;
+}
+
+/* Override specific sections or blocks if needed */
+h1, h2, h3, h4, h5, h6 {
+    text-align: left !important;
+}
+
+p {
+    text-align: left !important;
 }
 
 /* Custom spacing for single-page layout */
@@ -143,25 +142,14 @@ th, td {
 .mw5-ns {
     width: 950px;
     height: auto;
-    font-family: 'CircularStd', sans-serif;
-    font-weight: 400;
-    font-size: 24px;
 }
 
 @media (max-width: 1768px) {
     .mw5-ns {
-        width: 230px; /* Smaller logo for mobile */
-    	font-family: 'CircularStd', sans-serif;
-    	font-weight: 400;
-    	font-size: 24px;
+        width: 730px; /* Smaller logo for mobile */
     }
 }
 
-.site-logo {
-    font-family: 'CircularStd', sans-serif;
-    font-weight: 400;
-    font-size: 24px;
-}
 
 
 

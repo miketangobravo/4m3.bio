@@ -1,60 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Growing Wine Packaging</title>
-    <link>http://localhost:1313/it/categories/</link>
-    <description>Recent content on Growing Wine Packaging</description>
+    <title>Categories on Growing Wine Packaging</title>
+    <link>https://4m3.bio/it/categories/</link>
+    <description>Recent content in Categories on Growing Wine Packaging</description>
     <generator>Hugo</generator>
     <language>it</language>
-    <atom:link href="http://localhost:1313/it/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/it/tags/wine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/tags/wine/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/it/tags/packaging/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/tags/packaging/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/it/tags/mycelium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/tags/mycelium/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/it/tags/biofabrication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/tags/biofabrication/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/it/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/tags/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/it/categories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/categories/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Coltivare Scatole di Vino</title>
-      <link>http://localhost:1313/it/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/it/</guid>
-      <description>&lt;h2 id=&#34;biofabbricazione&#34;&gt;Biofabbricazione!&lt;/h2&gt;&#xA;&lt;p&gt;🍄+🍇=📦&lt;/p&gt;&#xA;&lt;p&gt;“Coltiviamo” imballaggi compostabili e sostenibili per il vino, utilizzando due ingredienti:&lt;/p&gt;&#xA;&lt;p&gt;micelio (funghi) e&#xA;residui del vigneto (potature di vite).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;proteggi-il-tuo-vino&#34;&gt;Proteggi il tuo vino&lt;/h2&gt;&#xA;&lt;p&gt;Il biopackaging è più resistente del polistirolo, più leggero del legno e non richiede un rivestimento esterno in cartone.&lt;/p&gt;&#xA;&lt;p&gt;Queste scatole proteggono il vino da vibrazioni, sbalzi di temperatura e urti e sono pronte per essere spedite ad aziende e clienti.&lt;/p&gt;&#xA;&lt;p&gt;Possono essere coltivati ​​in cantina, utilizzando potature provenienti dal proprio vigneto.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://4m3.bio/it/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

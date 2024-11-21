@@ -1,60 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Growing Wine Packaging</title>
-    <link>http://localhost:1313/ca/categories/</link>
-    <description>Recent content on Growing Wine Packaging</description>
+    <title>Categories on Growing Wine Packaging</title>
+    <link>https://4m3.bio/ca/categories/</link>
+    <description>Recent content in Categories on Growing Wine Packaging</description>
     <generator>Hugo</generator>
     <language>ca</language>
-    <atom:link href="http://localhost:1313/ca/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/ca/tags/wine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/tags/wine/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/ca/tags/packaging/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/tags/packaging/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/ca/tags/mycelium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/tags/mycelium/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/ca/tags/biofabrication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/tags/biofabrication/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/ca/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/tags/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/ca/categories/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/categories/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Conrear Caixes de Vi</title>
-      <link>http://localhost:1313/ca/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ca/</guid>
-      <description>&lt;h2 id=&#34;biofabricació&#34;&gt;Biofabricació!&lt;/h2&gt;&#xA;&lt;p&gt;🍄+🍇=📦&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;Creïm&amp;rdquo; materials d&amp;rsquo;envasament de vi compostables i sostenibles, utilitzant dos ingredients:&lt;/p&gt;&#xA;&lt;p&gt;miceli (fongs) i&#xA;residus de vinya (poda de vinya).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;protegeix-el-teu-vi&#34;&gt;Protegeix el teu vi&lt;/h2&gt;&#xA;&lt;p&gt;El bioenvàs és més fort que l&amp;rsquo;escuma de poliestirè, més lleuger que la fusta i no requereix un envàs de cartró exterior.&lt;/p&gt;&#xA;&lt;p&gt;Aquestes caixes protegeixen el vostre vi de vibracions, canvis de temperatura i impactes, i estan a punt per enviar-los als minoristes i als clients.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="https://4m3.bio/ca/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

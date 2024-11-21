@@ -1,4 +1,4 @@
-/* Font setting? */
+o* Font setting? */
 body {
     font-family: 'CircularSTD', sans-serif;
 }
@@ -35,16 +35,31 @@ p {
     text-align: left !important;
 }
 
-body {
-    font-family: 'Poppins', sans-serif;
+@font-face {
+    font-family: 'CircularStd';
+    src: url('/fonts/CircularStd/CircularStd-Book.woff2') format('woff2'),
+         url('/fonts/CircularStd/CircularStd-Book.woff') format('woff'),
+         url('/fonts/CircularStd/CircularStd-Book.ttf') format('truetype');
+    font-weight: 400; /* Regular weight */
+    font-style: normal;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Poppins', sans-serif;
+@font-face {
+    font-family: 'CircularStd';
+    src: url('/fonts/CircularStd/CircularStd-Bold.woff2') format('woff2'),
+         url('/fonts/CircularStd/CircularStd-Bold.woff') format('woff'),
+         url('/fonts/CircularStd/CircularStd-Bold.ttf') format('truetype');
+    font-weight: 700; /* Bold weight */
+    font-style: normal;
 }
 
-p {
-    font-family: 'Poppins', sans-serif;
+@font-face {
+    font-family: 'CircularStd';
+    src: url('/fonts/CircularStd/CircularStd-Italic.woff2') format('woff2'),
+         url('/fonts/CircularStd/CircularStd-Italic.woff') format('woff'),
+         url('/fonts/CircularStd/CircularStd-Italic.ttf') format('truetype');
+    font-weight: 400; /* Italic weight */
+    font-style: italic;
 }
 
 @font-face {
@@ -126,15 +141,28 @@ th, td {
 
 
 .mw5-ns {
-    width: 50px;
+    width: 950px;
     height: auto;
+    font-family: 'CircularStd', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1768px) {
     .mw5-ns {
-        width: 30px; /* Smaller logo for mobile */
+        width: 230px; /* Smaller logo for mobile */
+    	font-family: 'CircularStd', sans-serif;
+    	font-weight: 400;
+    	font-size: 24px;
     }
 }
+
+.site-logo {
+    font-family: 'CircularStd', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+
 
 
 /* Set Global Background Color */
@@ -143,4 +171,20 @@ body {
     background-color: #ffffff !important; /* White background */
     color: #000000; /* Optional: Set text color for better contrast */
 }
+
+/* Hover effect for links */
+a {
+    color: #333333; /* Change to your desired color */
+    text-decoration: none; /* Remove the underline if desired */
+}
+
+a:hover {
+    color: #555555; /* Slightly darker or lighter shade for hover */
+    text-decoration: underline; /* Optional: Add an underline on hover */
+
+.container {
+    width: 100%;
+    padding: 0 20px; /* Add padding to avoid text touching the edges */
+}
+
 

@@ -9,8 +9,7 @@ tags:
   - packaging
 background_color_class: bg-blue
 cover_dimming_class: bg-black-40
-cascade:
-  featured_image: /images/hero_mtb.jpg
+featured_image: /images/postal_4m3.jpg
 ---
 
 ## Biofabricació! 

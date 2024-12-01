@@ -7,9 +7,8 @@ tags:
   - biofabrication
   - wine
   - packaging
-#background_color_class: bg-blue
 cover_dimming_class: bg-black-20
-featured_image: /images/postal_4m3.jpg
+featured_image: images/postal_4m3.jpg
 ---
 
 ## Biofabrication! 

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wine on Growing Wine Packaging</title>
-    <link>http://localhost:1313/fr/tags/wine/</link>
+    <link>https://4m3.bio/fr/tags/wine/</link>
     <description>Recent content in Wine on Growing Wine Packaging</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <atom:link href="http://localhost:1313/fr/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://4m3.bio/fr/tags/wine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cultiver l&#39;emballage du Vin</title>
-      <link>http://localhost:1313/fr/</link>
+      <link>https://4m3.bio/fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fr/</guid>
+      <guid>https://4m3.bio/fr/</guid>
       <description>&lt;h2 id=&#34;biofabrication&#34;&gt;Biofabrication!&lt;/h2&gt;&#xA;&lt;p&gt;🍄+🍇=📦&lt;/p&gt;&#xA;&lt;p&gt;Nous « cultivons » des emballages compostables et durables pour le vin, en utilisant deux ingrédients :&lt;/p&gt;&#xA;&lt;p&gt;mycélium (champignons) et&#xA;résidus de vigne (taille de la vigne).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;un-réel-impact&#34;&gt;Un réel impact !&lt;/h2&gt;&#xA;&lt;p&gt;Réduit les dommages environnementaux.&lt;/p&gt;&#xA;&lt;p&gt;Le bio-emballage est plus résistant que le polystyrène, plus léger que le bois et ne nécessite pas de contenant extérieur en carton.&lt;/p&gt;&#xA;&lt;p&gt;Protégez votre vin des chocs, des vibrations et des changements brusques de température.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -8,7 +8,7 @@ tags:
   - wine
   - packaging
 cover_dimming_class: bg-black-20
-featured_image: images/postal_4m3.jpg
+featured_image: /images/postal_4m3.jpg
 ---
 
 ## Biofabrication! 

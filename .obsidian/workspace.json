@@ -164,6 +164,11 @@
   },
   "active": "db013bdcd3bfec8a",
   "lastOpenFiles": [
+    "public/css/custom.css.orig",
+    "static/css/custom.css.orig",
+    "assets/ananke/css/custom.css",
+    "assets/ananke/css/custom.css.orig",
+    "static/css/custom.css~",
     "content/it/_index.md~",
     "content/fr/_index.md~",
     "content/es/_index.md~",
@@ -178,7 +183,6 @@
     "content/fr/_index.md",
     "static/images/thinker.jpg",
     "4m3.bio web updates.md",
-    "static/css/custom.css~",
     "public/images/profile_glass.jpg",
     "static/images/profile_glass.jpg",
     "public/images/postal_4m3.jpg",
@@ -188,9 +192,6 @@
     "public/images/postal_4m3.jpeg",
     "static/images/postal_4m3.jpeg",
     "config.toml~",
-    "public/es/tags/packaging/index.xml",
-    "public/es/tags/wine/index.xml",
-    "public/es/tags/biofabrication/index.xml",
     "4m3.bio - website.md",
     "Rotate!.md"
   ]

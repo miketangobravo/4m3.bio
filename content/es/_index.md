@@ -22,13 +22,25 @@ residuos de la viña (poda de la vid).
 
 ---
 
-## Protejer tu Vino
+## ¡Impacto real!
 
-Biopackaging es más resistente que el poliestireno, más ligero que la madera y no requiere un exterior de cartón.
+Reduce el daño ambiental.
 
-Estas cajas protegen el vino de vibraciones, cambios bruscos de temperatura e impactos, y están listas para enviarse a comercios y clientes.
+El biopackaging es más resistente que el poliestireno, más ligero que la madera y no requiere un contenedor exterior de cartón.
 
-Se pueden cultivar en la bodega, utilizando los materials de poda de su propio viñedo.
+Protege tu vino de golpes, vibraciones y cambios bruscos de temperatura.
+
+Engancha tus clientes con un unpacking experience que cuente la historia de tu viñedo y el origen del vino.
+
+Cultiva cajas en tu bodega, utilizando tus propios desechos del viñedo.
+
+---
+
+## Nuestro objetivo: empoderar a las bodegas cultivar sus propias cajas
+
+Durante 10.000 años, el mosto de uva y los hongos (levaduras) han producido vino: 🍄+🍇=🍷
+
+Ahora, las bodegas pueden producir vino y cultivar cajas a partir de las MISMAS vides: 🍄+🍇=📦
 
 ---
 
@@ -42,33 +54,20 @@ Se pueden cultivar en la bodega, utilizando los materials de poda de su propio v
 6. ¡Envía tus vinos a todo el mundo!
 
 ---
-
-
-
 ![](/images/bluesky.jpg)
 ![](/images/2box_lid.jpg)
 ![](/images/sixbottle.jpg)
 ![](/images/empty_shadow.jpg)
 ![](/images/oblique_box.jpg)
+![](/images/thinker.jpg)
 ---
+## Buscamos:
 
-## Nuestro objetivo: empoderar a las bodegas cultivar sus propias cajas
-
-Permitimos que las bodegas CULTIVEN sus propios envases sostenibles.
-
-Durante 10.000 años, las uvas trituradas y los hongos (levaduras) han producido vino: 🍄+🍇=🍷
-
-Ahora, las bodegas pueden producir vino y cultivar envases a partir de las MISMAS vides: 🍄+🍇=📦
-
----
-
-## Nosotros estamos buscando:
-
-Nuestra primera bodega
+Nuestra primera bodega partner.
 
 Estamos buscando quien será la PRIMERA bodega del mundo que utilice biopackaging con micelio.
 
-Le ayudaremos a cultivar sus primeras 1000 cajas y le enseñaremos el proceso. Su marca llevará esta tecnología al mundo y lo acompañaremos en el escenario en los eventos vitivinícolas del mundo para apoyar el anuncio.
+Le ayudaremos a cultivar sus primeras 1000 cajas y le enseñaremos el proceso. Su marca llevará esta tecnología al mundo y lo acompañaremos en el escenario en los eventos vitivinícolas del mundo.
 ## El equipo de 4m3.bio
 
 Somos un equipo de expertos en biofabricación, micología y negocios descentralizados: apasionados por cultivar envases sostenibles.
@@ -85,12 +84,3 @@ Somos un equipo de expertos en biofabricación, micología y negocios descentral
 ---
 
 ## Contactanos: info@4m3.bio
-
-<form name="contact" method="POST" data-netlify="true">
-  <input type="hidden" name="form-name" value="contact">
-  <p><label>Your Name: <input type="text" name="name"></label></p>
-  <p><label>Your Email: <input type="email" name="email"></label></p>
-  <p><label>Your Message: <textarea name="message"></textarea></label></p>
-  <p><button type="submit">Send</button></p>
-</form>
-

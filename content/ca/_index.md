@@ -1,6 +1,6 @@
 ---
-title: Conrear Caixes de Vi
-description: Innovar Envasos Sostenibles amb Biofabricació
+title: Cultivar Embalatges de Vi
+description: Innovant l'embalatge sostenible amb Biofabricació
 author: Mike Tango Bravo
 tags:
   - mycelium
@@ -15,62 +15,63 @@ featured_image: /images/postal_4m3.jpg
 ## Biofabricació! 
 🍄+🍇=📦
 
-"Creïm" materials d'envasament de vi compostables i sostenibles, utilitzant dos ingredients:
+"Cultivem" materials d'embalatge compostables i sostenibles del vi, utilizant dos ingredients:
 
 miceli (fongs) i
 residus de vinya (poda de vinya).
 
 ---
 
-## Protegeix el teu vi
+## Impacte Real!
 
-El bioenvàs és més fort que l'escuma de poliestirè, més lleuger que la fusta i no requereix un envàs de cartró exterior.
+Redueix el dany ambiental.
 
-Aquestes caixes protegeixen el vostre vi de vibracions, canvis de temperatura i impactes, i estan a punt per enviar-los als minoristes i als clients.
+El biopackaging és més resistent que l'escuma de poliestirè, més lleuger que la fusta i no requereix un contenidor exterior de cartró.
 
-Es poden cultivar al celler, utilitzant les restes de la vinya.
+Protegeix el teu vi de cops, vibracions i canvis bruscs de temperatura.
+
+Enganxa amb els clients amb una experiència de desempaquetat que expliqui la història de la teva vinya i l'origen del vi.
+
+Es poden cultivar al celler, utilitzant els residus propis de la vinya.
+
+---
+## El nostre objectiu: capacitar els cellers per cultivar les seves pròpies caixes
+
+Durant 10.000 anys, el raïm triturat i els fongs (llevat) han produït vi: 🍄+🍇=🍷
+
+Ara, els cellers poden elaborar vi i cultivar envasos a partir de les MATEIXOS ceps: 🍄+🍇=📦
 
 ---
 
-## El procés és senzill
+## El procés és simple
 
-1. Tritureu la poda de la vinya en un mulch.
-2. Netegeu la poda triturada i barregeu-la amb una petita quantitat de llavors inoculades amb fongs.
-3. Col·loqueu la mescla en un motlle de caixa de vi i espereu 5 dies perquè el miceli colonitzi els esqueixos de vinya.
-4. Retireu el bioenvàs recentment cultivat del motlle i deixeu-ho assecar.
-5. Escalfeu la caixa a 80˚C per eliminar la humitat restant i aturar el creixement del miceli.
-6. Envia els teus vins a tot el món!
+1. Tritureu la poda de la vinya.
+2. Neteja el triturar i barreja'l amb una petita quantitat de llavors inoculades amb fongs.
+3. Col·loca la barreja en un motlle de caixa de vi i espera 5 dies per la colonització del miceli.
+4. Retira el biopackaging recentment cultivat del motlle i deixa'l assecar.
+5. Escalfa la caixa a 80˚C per eliminar la humitat restant i aturar el creixement del miceli.
+6. Envia els teus vins arreu del món!
 
 ---
-
-
 ![](/images/bluesky.jpg)
 ![](/images/2box_lid.jpg)
 ![](/images/sixbottle.jpg)
 ![](/images/empty_shadow.jpg)
 ![](/images/oblique_box.jpg)
+![](/images/thinker.jpg)
 ---
 
-## El nostre objectiu: habilitar els cellers per cultivar les seves pròpies caixes
-
-Permet als cellers CULTIVAR els seus propis envasos sostenibles.
-
-Durant 10.000 anys, el raïm triturat i els fongs (llevat) han produït vi: 🍄+🍇=🍷
-
-Ara, els cellers poden elaborar vi i cultivar envasos a partir de les MATEIXES ceps: 🍄+🍇=📦
-
----
 
 ## Estem buscant:
 
 El nostre primer celler soci
 
-Busquem el PRIMER celler del món que utilitza bioenvasos de miceli.
+Estem buscant qui serà el PRIMER celler del món que utilitzarà biopackaging amb miceli.
 
-T'ajudarem a fer créixer les teves primeres 1000 caixes i t'ensenyarem el procés. La vostra marca portarà aquesta tecnologia al món i ens unirem a vosaltres a l'escenari dels esdeveniments vinícoles del món per donar suport a l'anunci.
+L'ajudarem a cultivar les seves primeres 1000 caixes i li ensenyarem el procés. La seva marca portarà aquesta tecnologia al món i l'acompanyarem a l'escenari en els esdeveniments vitivinícoles del món.
 ## L'equip 4m3.bio
 
-Som un equip d'experts en biofabricació, micologia i negoci descentralitzat: apassionats per fer créixer envasos sostenibles.
+Som un equip d’experts en biofabricació, micologia i negocis descentralitzats: apassionats per cultivar Embalatge sostenible.
 
 |                                                                                |                               |
 | ------------------------------------------------------------------------------ | ----------------------------- |
@@ -83,12 +84,3 @@ Som un equip d'experts en biofabricació, micologia i negoci descentralitzat: ap
 ---
 
 ## Contacta amb nosaltres: info@4m3.bio
-
-<form name="contact" method="POST" data-netlify="true">
-  <input type="hidden" name="form-name" value="contact">
-  <p><label>Your Name: <input type="text" name="name"></label></p>
-  <p><label>Your Email: <input type="email" name="email"></label></p>
-  <p><label>Your Message: <textarea name="message"></textarea></label></p>
-  <p><button type="submit">Send</button></p>
-</form>
-

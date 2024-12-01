@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biofabrication on Growing Wine Packaging</title>
-    <link>https://4m3.bio/tags/biofabrication/</link>
+    <link>http://localhost:1313/tags/biofabrication/</link>
     <description>Recent content in Biofabrication on Growing Wine Packaging</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://4m3.bio/tags/biofabrication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/biofabrication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Growing Wine Packaging</title>
-      <link>https://4m3.bio/</link>
+      <link>http://localhost:1313/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://4m3.bio/</guid>
-      <description>&lt;h2 id=&#34;biofabrication&#34;&gt;Biofabrication!&lt;/h2&gt;&#xA;&lt;p&gt;🍄+🍇=📦&lt;/p&gt;&#xA;&lt;p&gt;We &amp;ldquo;grow&amp;rdquo; compostable and sustainable wine packaging materials, using two ingredients:&lt;/p&gt;&#xA;&lt;p&gt;mycelium (fungi) and&#xA;vineyard waste (vine pruning).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;protect-your-wine&#34;&gt;Protect your wine&lt;/h2&gt;&#xA;&lt;p&gt;Biopackaging is stronger than styrofoam, lighter than wood, and does not require an outer cardboard container.&lt;/p&gt;&#xA;&lt;p&gt;These boxes protect your wine from vibrations, temperature swings, and impacts, and are ready to ship to retailers and customers.&lt;/p&gt;&#xA;&lt;p&gt;They can be grown at the winery, using your own vineyard waste.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/</guid>
+      <description>&lt;h2 id=&#34;biofabrication&#34;&gt;Biofabrication!&lt;/h2&gt;&#xA;&lt;p&gt;🍄+🍇=📦&lt;/p&gt;&#xA;&lt;p&gt;We &amp;ldquo;grow&amp;rdquo; compostable and sustainable wine packaging materials, using two ingredients:&lt;/p&gt;&#xA;&lt;p&gt;mycelium (fungi) and&#xA;vineyard waste (vine pruning).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;real-impact&#34;&gt;Real Impact!&lt;/h2&gt;&#xA;&lt;p&gt;Reduce environmental damage.&lt;/p&gt;&#xA;&lt;p&gt;Biopackaging is stronger than styrofoam, lighter than wood, and does not require an outer cardboard container.&lt;/p&gt;&#xA;&lt;p&gt;Protect your wine from smacks, vibrations, and temperature swings.&lt;/p&gt;&#xA;&lt;p&gt;Engage customers with an unboxing experience that tells your vineyard&amp;rsquo;s story and wine&amp;rsquo;s origin.&lt;/p&gt;&#xA;&lt;p&gt;Grow boxes at your winery, using your own vineyard waste.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

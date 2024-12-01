@@ -21,14 +21,24 @@ micelio (funghi) e
 residui del vigneto (potature di vite).
 
 ---
+## Impatto reale!
 
-## Proteggi il tuo vino
+Riduce i danni ambientali.
 
-Il biopackaging è più resistente del polistirolo, più leggero del legno e non richiede un rivestimento esterno in cartone.
+Il biopackaging è più resistente del polistirolo, più leggero del legno e non richiede un contenitore esterno in cartone.
 
-Queste scatole proteggono il vino da vibrazioni, sbalzi di temperatura e urti e sono pronte per essere spedite ad aziende e clienti.
+Proteggi il tuo vino da urti, vibrazioni e sbalzi di temperatura.
 
-Possono essere coltivati ​​in cantina, utilizzando potature provenienti dal proprio vigneto.
+Cattura i tuoi clienti con un'esperienza di disimballaggio che racconta la storia del tuo vigneto e l'origine del vino.
+
+Coltiva i box nella tua cantina, utilizzando gli scarti del tuo vigneto.
+
+---
+## Il nostro obiettivo: consentire alle aziende vinicole di coltivare le proprie scatole
+
+Da 10.000 anni l'uva pigiata e i funghi (lieviti) producono vino: 🍄+🍇=🍷
+
+Le aziende vinicole ora possono produrre vino e coltivare imballaggi dalle STESSE viti: 🍄+🍇=📦
 
 ---
 
@@ -42,23 +52,12 @@ Possono essere coltivati ​​in cantina, utilizzando potature provenienti dal 
 6. Invia i tuoi vini in tutto il mondo!
 
 ---
-
-
 ![](/images/bluesky.jpg)
 ![](/images/2box_lid.jpg)
 ![](/images/sixbottle.jpg)
 ![](/images/empty_shadow.jpg)
 ![](/images/oblique_box.jpg)
----
-
-## Il nostro obiettivo: consentire alle aziende vinicole di coltivare le proprie scatole
-
-Permettiamo alle aziende vinicole di COLTIVARE il proprio packaging sostenibile.
-
-Da 10.000 anni l'uva pigiata e i funghi (lieviti) producono vino: 🍄+🍇=🍷
-
-Le aziende vinicole ora possono produrre vino e coltivare imballaggi dalle STESSE viti: 🍄+🍇=📦
-
+![](/images/thinker.jpg)
 ---
 
 ## Stiamo cercando:

@@ -22,38 +22,21 @@ vineyard waste (vine pruning).
 
 ---
 
-## Protect your wine
+## Real Impact!
+
+Reduce environmental damage.
 
 Biopackaging is stronger than styrofoam, lighter than wood, and does not require an outer cardboard container. 
 
-These boxes protect your wine from vibrations, temperature swings, and impacts, and are ready to ship to retailers and customers.
+Protect your wine from smacks, vibrations, and temperature swings.
 
-They can be grown at the winery, using your own vineyard waste.
+Engage customers with an unboxing experience that tells your vineyard's story and wine's origin. 
 
----
+Grow boxes at your winery, using your own vineyard waste.
 
-## The Process is Simple
-
-1. Shred your vine pruning into a mulch.
-2. Clean the shredded pruning, and mix with a small amount of fungi-inoculated seeds.
-3. Place the mixture into a wine-box mould, and wait 5 days for the mycelium to colonize the vineyard cuttings. 
-4. Remove the newly grown biopackaging from the mould and allow to dry.
-5. Heat the box to 80˚C, to remove any remaining moisture and stop further mycelial growth.
-6. Ship your wines around the world!
-
----
-
-
-![](/images/bluesky.jpg)
-![](/images/2box_lid.jpg)
-![](/images/sixbottle.jpg)
-![](/images/empty_shadow.jpg)
-![](/images/oblique_box.jpg)
 ---
 
 ## Our Goal: Empower Wineries to Grow Their Own Boxes
-
-We enable wineries to GROW their own sustainable packaging.
 
 For 10,000 years, crushed grapes and fungi (yeast) have produced wine: 🍄+🍇=🍷
 
@@ -61,17 +44,33 @@ Now, wineries can make wine and grow packaging from the SAME vines: 🍄+🍇=�
 
 ---
 
+## The Process is Simple
+
+1. Shred your vine pruning into a mulch.
+2. Clean the shredded pruning, and mix with a small amount of fungi-inoculated seeds.
+3. Place the mixture into a wine-box mould, and wait 5 days for the mycelium to colonize the mulch. 
+4. Remove the newly grown biopackaging from the mould and allow to dry.
+5. Heat the box to 80˚C, to remove any remaining moisture and stop further mycelial growth.
+6. Ship your wines around the world!
+
+---
+![](/images/bluesky.jpg)
+![](/images/2box_lid.jpg)
+![](/images/sixbottle.jpg)
+![](/images/empty_shadow.jpg)
+![](/images/oblique_box.jpg)
+![](/images/thinker.jpg)
+---
 ## We’re Looking For:
 
 Our Premier Winery Partner
 
 We are looking for the FIRST winery in the world to use mycelium biopackaging. 
 
-We will help you grow your first 1000 boxes, and teach you the process. Your brand will bring this technology to the world, and we will join you on stage at the world's wine events, to support the announcement.
+We will help you grow your first 1000 boxes, and teach you the process. Your brand will usher this technology into the world, and we will join you on stage at the world's wine events.
 ## The 4m3.bio Team
 
 We are a team of experts in biofabrication, mycology, and decentralized business: passionate about growing sustainable packaging.
-
 
 |                                                                                |                           |     |
 | ------------------------------------------------------------------------------ | ------------------------- | --- |
@@ -84,12 +83,3 @@ We are a team of experts in biofabrication, mycology, and decentralized business
 ---
 
 ## Contact us: info@4m3.bio
-
-<form name="contact" method="POST" data-netlify="true">
-  <input type="hidden" name="form-name" value="contact">
-  <p><label>Your Name: <input type="text" name="name"></label></p>
-  <p><label>Your Email: <input type="email" name="email"></label></p>
-  <p><label>Your Message: <textarea name="message"></textarea></label></p>
-  <p><button type="submit">Send</button></p>
-</form>
-

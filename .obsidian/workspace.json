@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4m3.bio web updates.md",
+                "file": "content/it/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4m3.bio web updates"
+              "title": "_index"
             }
           }
         ],
@@ -179,6 +179,14 @@
   },
   "active": "f52fd7c82b461642",
   "lastOpenFiles": [
+    "public/images/thinker.jpg",
+    "content/es/_index.md",
+    "content/en/_index.md",
+    "content/ca/_index.md",
+    "content/fr/_index.md",
+    "content/it/_index.md",
+    "static/images/thinker.jpg",
+    "4m3.bio web updates.md",
     "static/css/custom.css~",
     "content/it/_index.md~",
     "content/fr/_index.md~",
@@ -195,14 +203,7 @@
     "static/images/postal_4m3.jpeg",
     "config.toml~",
     "public/4m3bio_logo_white.svg",
-    "static/4m3bio_logo_white.svg",
-    "content/en/_index.md",
-    "4m3.bio web updates.md",
     "README.md",
-    "content/it/_index.md",
-    "content/fr/_index.md",
-    "content/es/_index.md",
-    "content/ca/_index.md",
     "public/es/tags/packaging/index.xml",
     "public/es/tags/wine/index.xml",
     "public/es/tags/biofabrication/index.xml",

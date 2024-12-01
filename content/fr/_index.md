@@ -22,16 +22,27 @@ résidus de vigne (taille de la vigne).
 
 ---
 
-## Protégez votre vin
+## Un réel impact !
 
-Le bioemballage est plus résistant que le polystyrène, plus léger que le bois et ne nécessite pas d'extérieur en carton.
+Réduit les dommages environnementaux.
 
-Ces coffrets protègent le vin des vibrations, des changements brusques de température et des chocs, et sont prêts à être expédiés aux commerçants et clients.
+Le bio-emballage est plus résistant que le polystyrène, plus léger que le bois et ne nécessite pas de contenant extérieur en carton.
 
-Ils peuvent être cultivés au chai, en utilisant le matériel de taille de votre propre vignoble.
+Protégez votre vin des chocs, des vibrations et des changements brusques de température.
+
+Interagissez avec les clients avec une expérience de déballage qui raconte l'histoire de votre vignoble et l'origine du vin.
+
+Cultivez des caisses dans votre cave, en utilisant vos propres déchets de vigne.
 
 ---
 
+## Notre objectif : permettre aux vignobles de cultiver leurs propres caisses
+
+Depuis 10 000 ans, les raisins foulés et les champignons (levures) produisent du vin : 🍄+🍇=🍷
+
+Les établissements vinicoles peuvent désormais produire du vin et cultiver des emballages à partir des MÊMES vignes : 🍄+🍇=📦
+
+---
 ## Le processus est simple
 
 1. Broyer les restes de taille de vigne.
@@ -42,24 +53,12 @@ Ils peuvent être cultivés au chai, en utilisant le matériel de taille de votr
 6. Envoyez vos vins dans le monde entier !
 
 ---
-
-
-
 ![](/images/bluesky.jpg)
 ![](/images/2box_lid.jpg)
 ![](/images/sixbottle.jpg)
 ![](/images/empty_shadow.jpg)
 ![](/images/oblique_box.jpg)
----
-
-## Notre objectif : permettre aux vignobles de cultiver leurs propres caisses
-
-Nous permettons aux établissements vinicoles de CULTIVER leurs propres emballages écologique.
-
-Depuis 10 000 ans, les raisins foulés et les champignons (levures) produisent du vin : 🍄+🍇=🍷
-
-Les établissements vinicoles peuvent désormais produire du vin et cultiver des emballages à partir des MÊMES vignes : 🍄+🍇=📦
-
+![](/images/thinker.jpg)
 ---
 
 ## Nous recherchons :
@@ -85,12 +84,3 @@ Nous sommes une équipe d'experts en biofabrication, mycologie et commerce déce
 ---
 
 ## Contactez-nous: info@4m3.bio
-
-<form name="contact" method="POST" data-netlify="true">
-  <input type="hidden" name="form-name" value="contact">
-  <p><label>Your Name: <input type="text" name="name"></label></p>
-  <p><label>Your Email: <input type="email" name="email"></label></p>
-  <p><label>Your Message: <textarea name="message"></textarea></label></p>
-  <p><button type="submit">Send</button></p>
-</form>
-

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Growing Wine Packaging</title>
-    <link>https://4m3.bio/ca/tags/</link>
+    <link>http://localhost:1313/ca/tags/</link>
     <description>Recent content in Tags on Growing Wine Packaging</description>
     <generator>Hugo</generator>
     <language>ca</language>
-    <atom:link href="https://4m3.bio/ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/ca/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biofabrication</title>
-      <link>https://4m3.bio/ca/tags/biofabrication/</link>
+      <link>http://localhost:1313/ca/tags/biofabrication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://4m3.bio/ca/tags/biofabrication/</guid>
+      <guid>http://localhost:1313/ca/tags/biofabrication/</guid>
       <description></description>
     </item>
     <item>
       <title>Mycelium</title>
-      <link>https://4m3.bio/ca/tags/mycelium/</link>
+      <link>http://localhost:1313/ca/tags/mycelium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://4m3.bio/ca/tags/mycelium/</guid>
+      <guid>http://localhost:1313/ca/tags/mycelium/</guid>
       <description></description>
     </item>
     <item>
       <title>Packaging</title>
-      <link>https://4m3.bio/ca/tags/packaging/</link>
+      <link>http://localhost:1313/ca/tags/packaging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://4m3.bio/ca/tags/packaging/</guid>
+      <guid>http://localhost:1313/ca/tags/packaging/</guid>
       <description></description>
     </item>
     <item>
       <title>Wine</title>
-      <link>https://4m3.bio/ca/tags/wine/</link>
+      <link>http://localhost:1313/ca/tags/wine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://4m3.bio/ca/tags/wine/</guid>
+      <guid>http://localhost:1313/ca/tags/wine/</guid>
       <description></description>
     </item>
   </channel>

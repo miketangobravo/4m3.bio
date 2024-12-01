@@ -162,8 +162,9 @@ body {
 
 /* Hover effect for links */
 a {
-    color: #333333; /* Change to your desired color */
-    text-decoration: none; /* Remove the underline if desired */
+    
+    color: #333333 !important; /* Change to your desired color */
+    text-decoration: none !important; /* Remove the underline if desired */
 }
 
 a:hover {

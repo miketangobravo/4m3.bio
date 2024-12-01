@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Packaging on Growing Wine Packaging</title>
-    <link>https://4m3.bio/it/tags/packaging/</link>
+    <link>http://localhost:1313/it/tags/packaging/</link>
     <description>Recent content in Packaging on Growing Wine Packaging</description>
     <generator>Hugo</generator>
     <language>it</language>
-    <atom:link href="https://4m3.bio/it/tags/packaging/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/it/tags/packaging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coltivare Scatole di Vino</title>
-      <link>https://4m3.bio/it/</link>
+      <link>http://localhost:1313/it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://4m3.bio/it/</guid>
-      <description>&lt;h2 id=&#34;biofabbricazione&#34;&gt;Biofabbricazione!&lt;/h2&gt;&#xA;&lt;p&gt;🍄+🍇=📦&lt;/p&gt;&#xA;&lt;p&gt;“Coltiviamo” imballaggi compostabili e sostenibili per il vino, utilizzando due ingredienti:&lt;/p&gt;&#xA;&lt;p&gt;micelio (funghi) e&#xA;residui del vigneto (potature di vite).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;proteggi-il-tuo-vino&#34;&gt;Proteggi il tuo vino&lt;/h2&gt;&#xA;&lt;p&gt;Il biopackaging è più resistente del polistirolo, più leggero del legno e non richiede un rivestimento esterno in cartone.&lt;/p&gt;&#xA;&lt;p&gt;Queste scatole proteggono il vino da vibrazioni, sbalzi di temperatura e urti e sono pronte per essere spedite ad aziende e clienti.&lt;/p&gt;&#xA;&lt;p&gt;Possono essere coltivati ​​in cantina, utilizzando potature provenienti dal proprio vigneto.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/it/</guid>
+      <description>&lt;h2 id=&#34;biofabbricazione&#34;&gt;Biofabbricazione!&lt;/h2&gt;&#xA;&lt;p&gt;🍄+🍇=📦&lt;/p&gt;&#xA;&lt;p&gt;“Coltiviamo” imballaggi compostabili e sostenibili per il vino, utilizzando due ingredienti:&lt;/p&gt;&#xA;&lt;p&gt;micelio (funghi) e&#xA;residui del vigneto (potature di vite).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;impatto-reale&#34;&gt;Impatto reale!&lt;/h2&gt;&#xA;&lt;p&gt;Riduce i danni ambientali.&lt;/p&gt;&#xA;&lt;p&gt;Il biopackaging è più resistente del polistirolo, più leggero del legno e non richiede un contenitore esterno in cartone.&lt;/p&gt;&#xA;&lt;p&gt;Proteggi il tuo vino da urti, vibrazioni e sbalzi di temperatura.&lt;/p&gt;&#xA;&lt;p&gt;Cattura i tuoi clienti con un&amp;rsquo;esperienza di disimballaggio che racconta la storia del tuo vigneto e l&amp;rsquo;origine del vino.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

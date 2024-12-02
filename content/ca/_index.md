@@ -64,7 +64,7 @@ Ara, els cellers poden elaborar vi i cultivar envasos a partir de les MATEIXOS c
 
 ## Estem buscant:
 
-El nostre primer celler soci
+El nostre primer celler soci.
 
 Estem buscant qui serà el PRIMER celler del món que utilitzarà biopackaging amb miceli.
 
